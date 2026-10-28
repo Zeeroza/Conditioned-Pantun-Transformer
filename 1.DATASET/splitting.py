@@ -1,0 +1,1 @@
+# TODO: buat logic split data menjadi train 80%, validation 10%, test 10%
