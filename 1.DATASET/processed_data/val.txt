@@ -1,0 +1,6573 @@
+<|start|> [TEMA: umum] [RIMA: am, ng]
+banyak ikan di dalam kolam
+kolam berisi air yang tenang
+jangan sering mandi malam
+nanti penyakit mudah datang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ah, ti]
+buah masak dipilahpilah
+bawa kepasar dengan pedati
+barang siapa enggan sekolah
+jikalau besar menyesal nanti
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ik, gu]
+sebelum belajar membatik
+pulang tiap malam minggu
+akulah calon jodoh terbaik
+pokoknya kamu ga usah ragu
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: it, lu]
+tim sepakbola beradu sengit
+penonton bersorak tiada malu
+gapailah mimpi setinggi langit
+ayah ibu mendukungselalu
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, an]
+bunga mekar dipetik jangan
+agar terjaga keindahan
+turuti perintah jauhi larangan
+niat ikhlas mengharap keridhaan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, ah]
+beli rujak buat jajan
+pedasnya bikin mata merah
+ngapain ngajak pacaran
+kalo berani ajak nikah!
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, as]
+Anak petani menanam jagung
+Jagung tumbuh di musim panas
+Jika ingin berdiri di puncak gunung
+Jangan takut proses yang keras
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: at, ad]
+air cuka tempatnya bulat
+bulat hati lantaran tekad
+jangan suka memdiberi coklat
+mari kita lakukan akad
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ah, ok]
+mangga muda jatuh ke tanah
+dimakan semut dan juga kodok
+bagaimana tawa tak pecah
+melihat gigi palsu jatuh ke mangkok
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, ng]
+nusantara banyak tarian
+masakan padang gulai rendang
+mari tanam banyak pepohonan
+supaya suasana semakin rindang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ja, ah]
+pisau tajam dari baja
+kelapa keras tetap dibelah
+aku belajar di waktu senja
+mengerjakan pr dari sekolah
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ai, an]
+coklat merah warna keledai
+didalam kandang sambil makan ramban
+jika rajin belajar pangkal pandai
+sebagai kunci dalam kehidupan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, lu]
+ada covid saat lebaran
+lebarannya beda dgn tahun lalu
+lama lama aku capek pacaran
+ketemunya yang gak serius mulu
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ar, ai]
+puisi cinta harus berjajar
+seperti bunga-bunga teratai
+kalau kita rajin belajar
+cita-cita pasti tercapai
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ta, ya]
+jangan berlari naiklah kereta
+jika kamu dikejar buaya
+semakin hari semakin cinta
+karena sering jajanin saya
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ja, an]
+sewa pakaian raja
+saat ikut karnaval agustusan
+pengen berjodoh denganmu aja
+cuma kamu yang bikin aku nyaman
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ai, ya]
+Pergi ke kebun memetik serai
+Serai wangi direbus airnya
+Jika hidup ingin damai
+Tenangkan hati dan pikirannya
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, an]
+bila datang bayang-bayang
+bintang bersinar berkelipan
+bila memang ia sayang
+lembah lembut tuturnya sopan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ai, oh]
+jangan suka berandai-andai
+apalagi yang senonoh
+rajin belajar pangkal pandai
+jika malas pangkal bodoh
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ah, ah]
+bunga bersemi banyak merekah
+tempat bermain si hewan lebah
+siapa orang suka sedekah
+pasti hidupnya semakin berkah
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ta, ya]
+beli cuka beli permata
+sekalian beli kotaknya
+cita-citaku menyatukan cinta
+maukah kamu mewujudkannya
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, ng]
+ombak berkejar menuju karang
+buih putih pecah berulang
+alam bergerak tanpa bimbang
+menjadi lukisan hidup yang tenang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: at, lu]
+tanam pinang dengan rapat
+agar puyuh terhambat lalu
+untukmu guru yang terhormat
+semoga engkau sehat selalu
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: if, pi]
+viral pengobatan alternatif
+pengobatan ningsih tinampi
+quota cintaku masih aktif
+kamu jangan percaya mimpi
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ia, ra]
+Hati tertekan curam bahagia
+Hidup sirnalah membentuk lara
+Abadi bukanlah di dalam dunia
+Hidup hanyalah tuk sementara
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: al, un]
+malam-malam bertemu begal
+begal baik suka berpantun
+di sekolah itu belajar banyak hal
+selain ilmu juga sopan santun
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, ik]
+menteri kelautan dan perikanan
+hari ini jadi trending topik
+kalau aku dan kamu pacaran
+pasti apa-apa terasa asyik
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: na, ga]
+beli baju beli celana
+beri satu untuk tetangga
+hiduplah dengan bijaksana
+emosi dan nafsu mesti dijaga
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ku, mu]
+setiap membeli buku
+aku selalu ketemu temanmu
+kalau ortu kamu menerimaku
+aku janji langsung halalin kamu
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: gi, ti]
+Tebu ditanam di tepi perigi
+Disiram air agar tak mati
+Izinkan saya berlalu pergi
+Janganlah ada dendam di hati
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ya, ng]
+kerupuk kemplang gurih rasanya
+dibuat asli dari kota palembang
+siapa yang tak senang datang bibinya
+membuat hati serasa melayang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, ng]
+dimana saja turunnya hujan
+di kota serta juga di ladang
+dimana saja kita liburan
+hati haruslah selalu senang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ta, ri]
+Langit malam bertatah permata
+Bintang bersinar bagai seri
+Jika benar engkau cinta
+Mengapa luka kau beri
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: as, sa]
+penyet paha begitu pedas
+berlibur untuk memanjakan rasa
+jangan hanya jadi anak cerdas
+tapi juga berguna untuk bangsa
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, an]
+Burung elang terbang melayang
+Sayap kuat menembus awan
+Jangan mudah berbuat curang
+Karena dosa membawa penyesalan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ir, ah]
+dari mana rumput izkir
+dari jauh antah berantah
+banyak pikir kurang dzikir
+membuat hati semakin resah
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ri, ng]
+kusangka masih malam hari
+rupanya telah datang siang
+kusangka bunga mekar berseri
+rupanya layu dihisap kumbang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ur, uk]
+tanaman di gunung amat subur
+ada bayam dan juga jeruk
+kamis bukan untuk berlibur
+karena utang sudah menumpuk
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: in, ar]
+masak ikan namanya patin
+ikan patin beli di pasar
+tak akan rugi belajar rutin
+ku yakin manfaatnya besar
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: mu, mu]
+tiap lewat penjual jamu
+coba lihat gerakgerik kakakmu
+aku tak butuh janji manismu
+aku hanya butuh keseriusamu
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ar, an]
+terik mentari panas bersinar
+tak mungkin akan turun hujan
+hati seakan berbinar
+kala datang sang pujaan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ir, lu]
+buah pelaga makan dikikir
+dibawa orang dari hulu
+sebarang kerja hendak difikir
+supaya jangan mendapat malu
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: at, mu]
+surya tenggelam di ufuk barat
+dengan bulan tak pernah bertemu
+siapa hendak mencari akhirat
+dia harus dengan ilmu
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ia, mu]
+anak kecil bernama sonia
+jika sakit minumlah jamu
+siap hendak dapat dunia
+mestilah ia menuntut ilmu
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ah, an]
+Ke pasar lama membeli kerah
+Benang sutera warna keemasan
+Jika berjanji jangan berhelah
+Tepatilah dengan keikhlasan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ar, ai]
+menulis syair di daun lontar
+pohon kelapa tempat si tupai
+suka membaca otakpun pintar
+kelak jadi anak yang pandai
+<|end|>
+
+<|start|> [TEMA: kemerdekaan] [RIMA: ar, ai]
+Sang saka merah putih berkibar,
+Tampak indah melambai-lambai,
+Semangat juang kami terus berkobar,
+Agar indonesia makmur Tergapai
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ru, an]
+pergi ke hutan untuk berburu
+ketemu kelinci digigit di tangan
+aku kemarin di hukum guru
+karena buang sampah sembarangan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ih, gi]
+hari panas minum selasih
+sayang sedang sakit gigi
+jika rumah selalu bersih
+kuman bakteri akan pergi
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, in]
+asal kapas menjadi benang
+dari benang dibuat kain
+barang yang lepas janganlah dikenang
+sudah menjadi hak orang lain
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: na, ua]
+hilang kancil pergi ke mana
+kancil pergi ke dalam gua
+galau hati gundah gulana
+saat harus memilih antara dua
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: tu, ah]
+ambil sajadah di depan pintu
+depan pintu ada sajadah
+ayo kerja saling membantu
+saling membantu moga berkah
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ar, ra]
+Burung sriti terbang berputar
+Menyambar angin di udara
+Jika ingin langkahmu benar
+Pikirkan matang sebelum bicara
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, an]
+mengarang lagu lalu kunyanyikan
+untuk menghibur si bunga pujaan
+adakah sibunga merasa nyaman
+mari kita teruskan di pelaminan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ji, os]
+tepung terigu tepung kanji
+kanji jangan jadikan kompos
+jadilah anak yang terpuji
+hidup hemat jangan boros
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, ya]
+tuhan adalah yang maha agung
+sujud syukur terhatur ke hadiratnya
+kalau nanti engkau bingung
+jangan sampai malu buat tanya
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: pi, up]
+penumpang kereta api
+pintunya wajib ditutup
+ketemu kamu dalam mimpi
+bagiku itu sudah cukup
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: it, ik]
+jalan setapak sangat sempit
+terbang ke atas burung gelatik
+daripada uang untuk kredit
+menabung itu lebih baik
+<|end|>
+
+<|start|> [TEMA: agama] [RIMA: an, ga]
+Redup bulan nampak akan hujan
+Pasang pelita sampai berjelaga
+Hidup mati di tangan Tuhan
+Tiada siapa dapat menduga
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, an]
+untuk apa main kitiran
+tertiup angin terpatahkan
+untuk apa kita pacaran
+menikah itu lebih mengasyikan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ti, si]
+ke pasar lama menanti
+tunggu ibu beli terasi
+jadilah anak yang baik hati
+agar nanti bisa berprestasi
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ai, an]
+padi kuning siap dituai
+anak kecil bermain layangan
+pekerjaan rumah sudah selesai
+saatnya tidur istirahatkan badan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ok, ng]
+hati-hati membeli rokok
+karena rokok panjang-panjang
+hati-hati memilih cowok
+karena cowok mata keranjang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ak, at]
+kucing berlari di dalam semak
+lari melesat mendengar babat
+terima kasih sudah menyimak
+semoga dapat memberi manfaat
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: da, da]
+langit berawan badai reda
+pulau lombok banyak kuda
+pilih perawan atau janda
+kalau perawan sangat menggoda
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: as, uh]
+hari hujan makan talas
+perahu besar belum berlabuh
+kalau sudah di dalam kelas
+dengarkan guru jangan bergaduh
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, an]
+sayang sayang buah kepayang
+buah kepayang hendak dimakan
+manusia hanya boleh merancang
+kuasa allah menentukan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ut, ta]
+petani di sawah memangkas rumput
+agar tak ada hewan melata
+masa depan itu harus dijemput
+dengan ilmu maupun harta
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, al]
+kita harus memenuhi sandang pangan
+agar kita bisa kekal
+sembahyang bukan sembarangan
+itu adalah hal yang sakral
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ti, un]
+patah jarum dalam peti
+buat menjahit kain bertimbun
+nasehat sepatah kurang dimengerti
+rupanya penawar beribu tahun
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, ng]
+ada hiburan kuda kepang
+penarinya sedang bergoyang
+ayo kita ke tanah lapang
+untuk bermain layang layang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ik, wa]
+merah warna burung gelatik
+terbang jauh turun ke rawa
+marah saja masih cantik
+apalagi kalau tertawa
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, an]
+buah kemumu dimakan ikan
+senyumanmu sulit kulupakan
+burung gelatik di atas nampan
+paling enak dijadikan pancingan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: pa, ra]
+kolang kaling campur es kelapa
+campur sedikit dengan air nira
+ayah pulang lihat bawa apa
+ayah pulang selalu bawa gembira
+<|end|>
+
+<|start|> [TEMA: nasihat] [RIMA: in, ya]
+Melukis indah di sehelai kain
+Patut dihargai hasil karyanya
+Jangan pernah meremehkan orang lain
+karena belum tentu kau lebih baik darinya
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, an]
+istirahat di dekat perhentian
+lebih nyaman duduk di taman
+cewek cantik dan pengertian
+cocoknya dijadikan sebagai teman
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ar, ng]
+jika tuan membeli tikar
+tikar anyaman dari mengkuang
+kalau tuan bijak pintar
+ular apa membelit pinggang?
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ri, ri]
+ada penyanyi ada penari
+bukan pemusik bukan pelari
+pergi sekolah pagi hari
+pergi madrasah sore hari
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, ng]
+rok dipakai anak perempuan
+tuk menyanyi lagu selayang pandang
+hati bingung tak karuan
+kala rasa rindu datang menyerang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: us, ya]
+beli nasi harus di bungkus
+kita wajib mematuhinya
+kalau kamu emang serius
+cintailah aku apa adanya
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: at, hi]
+joni pergi ke sekolah terlambat
+hingga gurunya memarahi
+jangan pernah meninggalkan sholat
+agar terus mendapat ridho ilahi
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, ya]
+banyak wanita menggunakan kembang
+kembang hiasan merah warnanya
+kota tercinta kota palembang
+jangan lupakan keramahannya
+<|end|>
+
+<|start|> [TEMA: alam] [RIMA: am, ga]
+Makan buah jeruk rasanya asam
+Sama rasa dengan buah mangga
+Ayo kawan mari lestarikan alam
+Agar bumi selalu terjaga
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ar, ah]
+jika mau pedas tambah ketumbar
+madu manis cap sarang lebah
+hormati guru saat mengajar
+supaya ilmu mu menjadi berkah
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ai, an]
+ada orang pergi ke sungai
+ke sungai menjaring ikan
+jika kamu ingin pandai
+rajinlah mengikuti pelajaran
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ji, ti]
+aku mencari sebuah gergaji
+malah aku temukan peniti
+jikalau kita rajin mengaji
+syurga indah akan menanti
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ap, at]
+jalan jalan ke cilacap
+naik motor ke arah barat
+hendak berkata tidak terucap
+bibir berkata terasa berat
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, ar]
+pergi ke pasar naik delman
+di pasar bertemu saudagar
+orang sabar disayang tuhan
+dibenci tuhan jika tak sabar
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: sa, am]
+sekarang hari selasa
+ramadhan ke duapuluhenam
+selingkuh itu juga dosa
+awas kamu jangan macam macam
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ta, ah]
+jalan ke desa memang rata
+lantai tanah setiap rumah
+kenali olehmu sang pencipta
+jadilah hamba-nya yang qonaah
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ri, di]
+ingin rasa memakan kari
+kari cendawan batang keladi
+girang rasa tidak terperi
+bertemu tuan yang baik budi
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: at, at]
+beli tiket ke kota lahat
+lewat sungai lewat darat
+istri yang terbaik selalu taat
+mengharap pahala di akhirat
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: di, ai]
+teman saya namanya budi
+anaknya rajin dan juga pandai
+jika kamu ramah berbudi
+apa buah yang tidak punya tangkai?
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: al, al]
+carilah harta yg halal
+agar anak istri tidak jalal
+kalau mengemis membuatmu sial
+jangan berbohong lantaran kenal
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ak, an]
+pergi ke pasar membeli pasak
+tidak lupa membeli papan
+percuma saja punya ilmu banyak
+kalau itu tidak pernah diamalkan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: uh, uh]
+rasa sakit kembali kambuh
+minum obat jangan jenuh
+jika pohon banyak tumbuh
+udara segar akan penuh
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: si, ik]
+di medsos dan televisi
+lagi pada ngomongin politik
+tak hanya punya bodi seksi
+kamu juga baik dan cantik
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ut, ak]
+tamu datang hendak disambut
+jarum patah dalam kotak
+berkatalah dengan lembut
+jangan sampai lidah membentak
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ma, ta]
+ada buaya berjumlah lima
+padang pasir banyak unta
+main game jangan lamalama
+nanti rusak kedua mata
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ur, ur]
+Anak kera tidur mendengkur
+Anak ayam di dekat sumur
+Barang siapa pandai bersyukur
+Kelak hidupnya menjadi Makmur
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ar, ta]
+bunga melati bunga mawar
+belinya di toko bunga nita
+jika kalian ingin belajar
+bukalah telinga dan mata
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: da, ar]
+malam minggu penuh canda
+sambil berdendang main gitar
+belajarlah kamu selagi muda
+agar jadi anak pintar
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: pi, ng]
+tahi lalat di dekat pipi
+sarapan pagi makan lontong
+kenakan baju dengan rapi
+rambut panjang mesti dipotong
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: at, at]
+hidup sederhana selalu hemat
+itulah perintah syariat
+ayo muslimin dan muslimat
+mari kita keluarkan zakat
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ai, ak]
+Gunung hijau tampak permai
+Awan tipis menyentuh puncak
+Jika hidup ingin damai
+Jangan iri jangan tamak
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ur, ur]
+Tetangga baru jatuh tersungkur
+Karena rumputnya tidak dicukur
+Jika kamu pandai bersyukur
+Nikmat bertambah tiada terukur
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ta, ta]
+beli obat sakit mata
+saat pulang dari jakarta
+apalah artinya harta
+bila belum mendapatkan cinta
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, ng]
+Burung layang terbang beriring
+Menyentuh awan lalu menghilang
+Kerja bersama ringan digiring
+Beban berat terasa senang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, ng]
+istirahat sejenak di pelabuhan
+membuka tas ternyata kosong
+anak terpuji disayang tuhan
+berkata jujur tak pernah bohong
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: gu, ng]
+besok pagi menebang pohon sagu
+memotongnya dengan parang
+apa kamu masih meragu
+aku ini milikmu seorang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ih, ya]
+jikalau ada melati putih
+marilah cium harum wanginya
+jikalau ada teman bersedih
+marilah kita hibur dirinya
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: is, un]
+afgan punya lagu sadis
+dinyanyikan oleh si maitun
+selamat kamis nona manis
+memang manis tapi berjakun
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, ba]
+daun terap di atas dulang
+anak udang mati dituba
+dalam kitab ada terlarang
+yang haram jangan dicoba
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, ng]
+jalan-jalan ke pinggir empang
+nemu katak di pinggir empang
+hati siapa tak bimbang
+kamu botak minta dikepang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, ng]
+Ke tepi danau melihat awan
+Bayang putih di air tenang
+Jika ingin hidup menenangkan
+Kurangi keluh perbanyak tenang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, an]
+pagi berseri tak ada mendung
+siang hari turun hujan
+duduk sendiri sambil merenung
+mengenang nasib dikandung badan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: at, an]
+Si dara bersimpuh menyulam tekat
+Buat teruna jadi bekalan
+Jiran baik membawa berkat
+Hidup bermuafakat jadi amalan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ut, ak]
+partai partai pada ribut
+menghadapi pilkada serentak
+cintaku ini takkan surut
+walaupun kita terpisah jarak
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, an]
+sejambak bunga dari taman
+untuk guru kuhadiahkan
+pesananmu tetap jadi pedoman
+mendorong aku mencapai kejayaan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: mu, ta]
+garam dan asam sudah bertemu
+di kuali bukan di permata
+bidadarinya ialah kamu
+membuat hatiku jatuh cinta
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, lu]
+pemuda pemudi buat kembar mayang
+tak lupa kencangkan dengan palu
+teruntukmu sahabat tersayang
+selamat jalan dan sukses selalu
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: mu, mu]
+tadi di belakang rumahmu
+ada layang layang adikmu
+hatiku deg degan tiap ada kamu
+jangan jangan aku suka kamu
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ar, ai]
+pergi jalan-jalan ke pasar
+pergi lagi ke tempat gadai
+mari kita rajin belajar
+rajin belajar supaya pandai
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ar, ar]
+pohon jati tumbuh berjajar
+pandai berpantun orang banjar
+kalau kita malas belajar
+cita-cita takkan terkejar
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ap, ng]
+ladang sawah selalu digarap
+pak tani pula mendapat untung
+cinta allah yang kita harap
+dari murka-nya kita berlindung
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, an]
+buah duku buah rambutan
+cuci piring bawah jembatan
+entah jodoh ataupun bukan
+mari awali dengan persahabatan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ik, at]
+burung bangau burung gelatik
+hinggap di atas pohon merambat
+barang siapa berbuat baik
+maka hidupnya akan penuh rahmat
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, an]
+Apa gunanya bertih direndang
+Bila tidak dapat dimakan
+Apa guna nya berkasih sayang
+Bila tegak tiada sepadan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ak, ai]
+tuan mahmud bermain tombak
+dang kasuma menangkap tupai
+kalau takut disambung ombak
+jangan berumah di tepi pantai
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, an]
+iseng iseng bikin postingan
+akhirnya dapat kenalan
+iseng iseng kirim chatingan
+akhirnya diajak ke pelaminan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: at, us]
+cuaca panas sangat menyengat
+kepala berpayungkan sekeping kardus
+ujian sekolah harus semangat
+agar mendapat nilai yang bagus
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ur, ur]
+tertiup angin daun pun gugur
+sudah menguning habislah umur
+penuhi pagi dengan bersyukur
+agar hidup semakin makmur
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: li, an]
+jalan-jalan ke tanah bali
+hendak mencari sekarung mainan
+kepada tuhan tempat kembali
+jangan lupa mohon ampunan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ur, ur]
+pagi hari makan bubur
+badan lelah setelah lembur
+hidup di dunia jangan takabur
+agar tak menyesal di alam kubur
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, ik]
+ngakunya berangkat jum'atan
+padahal ngopi-ngopi syantik
+walau dibaik-baikin mantan
+jangan mau kalau diajak balik
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: sa, an]
+selamat berbuka puasa
+buat para jomblo akhir zaman
+kalau mencintaimu itu dosa
+udah pasti takkan aku hiraukan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ur, ih]
+Pergi ke hutan mencari jamur
+Jamur kecil tumbuh bersih
+Jika ingin masa depan makmur
+Mulai hari ini dengan niat bersih
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ar, ar]
+satu lari satu mengejar
+jangan pula berputar-putar
+hormati guru yang mengajar
+niscaya dirimu jadi pintar
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: un, on]
+kera banyak tengah berhimpun
+sandarkan galah pada pohon
+segeralah kita meminta ampun
+kepada allah tempat bermohon
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ik, ng]
+buah nangka baru dipetik
+dicampur duku di atas loyang
+ada banyak perempuan cantik
+hanya kamu yang aku sayang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: re, it]
+pergi ke hutan saat sore
+banyak nyamuk menggigit kulit
+jika perut terserang diare
+segera kamu minum oralit
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: tu, an]
+di rawa-rawa banyak batu
+ada batu di atas lengan
+nasihat orang tua nomor satu
+selalu aku jadikan pegangan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ih, in]
+untuk apa minum selasih
+kalau tumpah ke baju kain
+untuk apa bertanam kasih
+kalau hatimu milik orang lain
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ki, ng]
+ada perempuan dan lakilaki
+hidup saling berpasangpasang
+jauhilah iri dan dengki
+niscaya hidup selalu tenang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, ng]
+ada di tempat persinggahan
+dia bertemu sama gareng
+ngeliat dari caramu jalan
+keknya kita cocok jalan bareng
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ih, ak]
+kalau sudah mendidih
+airnya berikan ke kakak
+untuk apa kamu bersedih
+yang baik dan ganteng masih banyak
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ai, at]
+ngabuburit sore ke tepi pantai
+duduk santai minum es pokat
+dikira ada bau bangkai
+ternyata kentut teman yang menyengat
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: di, mu]
+setelah memanen padi
+dia membeli segelas jamu
+apapun yang nanti terjadi
+aku akan selalu mencintaimu
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: in, ar]
+makan bakso ada formalin
+takut banget jadi gusar
+pramuka penggalang wajib disiplin
+mengatur waktu untuk belajar
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ur, ur]
+kain katun berwarna luntur
+dijemur saat waktu sahur
+sopan santun dalam bertutur
+tanda orang berbudi luhur
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, ul]
+Pergi ke ladang memanen jagung
+Jagung kuning disimpan bakul
+Jika hidup ingin jauh dari bingung
+Susun rencana dengan betul
+<|end|>
+
+<|start|> [TEMA: kemerdekaan] [RIMA: as, as]
+Kini kita dapat tertawa puas
+Menggapai mimpi dengan bebas
+Asal rajin dan tak malas
+Melanjutkan kemerdekaan dengan tegas
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: if, if]
+beli duku di toko latif
+membelinya bareng si afif
+cantik itu memang relatif
+photoshop jadi alternatif
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, an]
+banyak berterbangan kunang-kunang
+cahayanya menerangi sisi hutan
+idul fitri sudah datang
+khilaf dan salah mohon dimaafkan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, ya]
+Hari panas mencucuk benang
+Benang menjahit baju kebaya
+Air jernih lubuknya tenang
+Jangan disangka tiada buaya
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ra, us]
+Air mengalir ke muara
+Batu kecil menghalang arus
+Hidup bersama perlu bersuara
+Musyawarah jadi jalan lurus
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, it]
+pergi ke pasar beli bawang
+beli bawang tidak pakai kulit
+hati hati lah jadi orang
+jadi orang janganlah suka pelit
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: am, uh]
+air di dalam tambah dalam
+hujan di hulu belum juga teduh
+hati ini dendam bertambah dendam
+dendam dahulu belum juga sembuh
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, al]
+patah rotan tali bersilang
+batang meranti rimbun berjejal
+langkah pahlawan di tengah gelanggang
+berpantang maut sebelum ajal
+<|end|>
+
+<|start|> [TEMA: cinta] [RIMA: ti, ri]
+Taruh kembali pisau belati
+karena tajam bagaikan duri
+Cinta kasih di dalam hati
+Biarlah tumbuh dan berseri
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: un, il]
+petik satu buah sukun
+sayang buah masih kecil
+hendaknya belajar dengan tekun
+dengan tekun bisa berhasil
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ak, ng]
+bagaimana roda tidak koyak
+gigi roda kena ranting
+bagaimana kepala tidak botak
+istri empat semuanya bunting
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ai, ah]
+cantik nian pulau sikuai
+pasirnya putih teramat indah
+sebelum materi aku mulai
+marilah serentak mengucap basmallah
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, ua]
+Sirih sekapur di dalam puan
+Pinang muda dibelah dua
+Jika hendak dihormati kawan
+Bersikap adil pada semua
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ah, an]
+apa tanda kembang merekah
+sangat harum di penciuman
+apa tanda ilmunya berkah
+semakin dekat dengan tuhan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ah, ah]
+sungguh indah kota mekah
+jangan lupa kota madinah
+siapa yang memberi sedekah
+oleh allah diberi nafkah
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: is, pa]
+pagi hari turun gerimis
+panen padi isinya hampa
+kalau sudah makan manis
+sikat gigi jangan lupa
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ih, ji]
+airnya sudah mendidih
+kata adiknya pak haji
+gimana aku tak sedih
+dia yang kucinta ingkar janji
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ia, ti]
+bunga besar bunga raflesia
+bunga kecil bunga melati
+cepatlah taubat wahai manusia
+jangan menunggu sampai kau mati
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: mu, mu]
+belati yang di ruang tamu
+ternyata milik adik temanmu
+aku ntar datang ke mimpimu
+tapi jangan bilang bilang pacarmu
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ri, ku]
+minum jamu sambil berdiri
+diseduh cepat duduk di bangku
+bila hatimu masih sendiri
+berilah tempat untuk diriku
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, ng]
+jumpa monyet di pinggir hutan
+untung lah membawa parang
+mari kita berdoa pada tuhan
+agar virus korona segera hilang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, at]
+pergi ke sawah menanam ketan
+setelah hari kamis itu jumat
+rajinlah makan sayur-sayuran
+agar tubuh menjadi sehat
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, an]
+Pergi berkuda melintasi ladang
+Debu beterbangan di jalan
+Jika yakin tetap memandang
+Impian jadi kenyataan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: gi, ng]
+belum makan sedari pagi
+kata anak penjual bawang
+jangan kau ragukan lagi
+cintaku ini untukmu seorang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, sa]
+melihat hujan teringat mantan
+pertanda jiwa kurang dewasa
+demi menjaga persatuan
+mintalah restu tuhan yang esa
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: uk, at]
+makan bubur jangan diaduk
+karena terasa begitu nikmat
+jangan loyo jangan mengantuk
+pagipagi harus semangat
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: at, an]
+sayur bayam buah tomat
+sangat sehat untuk dimakan
+salam saya untuk yang terhormat
+para tamu acara sekalian
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ik, ng]
+ada yang memaksa mudik
+padahal itu sudah dilarang
+selain wajahmu yang cantik
+bodimu itu enak di pandang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ur, ng]
+Pergi ke pasar membeli sayur
+Sayur segar dibawa pulang
+Jika hidup ingin teratur
+Atur waktu jangan terbuang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, tu]
+orang datang beriringiringan
+melewati jalan berbatu
+bangun pagi jangan kesiangan
+datang ke sekolah tepat waktu
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, sa]
+berlibur bersama ke candi kalasan
+jangan lupa beli buah markisa
+hidup itu penuh perjuangan
+maka jangan mudah putus asa
+<|end|>
+
+<|start|> [TEMA: perpisahan] [RIMA: ak, ga]
+Batang selasih permainan anak
+Tumbuhnya jarang di tepi telaga
+Bercerai kasih bukan kehendak
+Paksaan orang dituruti juga
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, ya]
+putih bersih warna awan
+duduk bersimpuh amat teduhnya
+maksud hati mengejar perawan
+sudah nasib dapat emaknya
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: as, as]
+jika perut terasa mulas
+mungkin tangan tidak dibilas
+jika hati sudah ikhlas
+berbuat baik tak menuntut balas
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ah, ng]
+beli sabun beli blewah
+sayang sekali uangnya kurang
+main ke kebun turun ke sawah
+bersama paman hatiku riang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ya, an]
+buah mangga buah pepaya
+dimakan bersama di meja makan
+kau tahu aku bukanlah buaya
+yang penuh tipuan dan rayuan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, pa]
+petik kecapi suara bening
+satu satu dawai di harpa
+cium pipi cium di kening
+setelah itu yang dicium apa
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ar, ga]
+masakan sedikit akan dihantar
+untuk saudara dan tetangga
+di dunia waktunya sebentar
+gunakan untuk mengejar surga
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: uh, di]
+biarlah orang bertanam buluh
+marilah kita bertanam padi
+biarlah orang bertanam musuh
+marilah kita bertanam budi
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: lu, ru]
+parang tajam tidak berhulu
+buat mencetak isi pokok ru
+bila belajar tekun selalu
+jangan ingkar nasihat guru
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: bu, du]
+Warna ungu si buah jambu
+Warna hitam buah mengkudu
+Kalau harimu sedang kelabu
+Kepada Tuhan kamu mengadu
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ah, ta]
+panas hari amat gerah
+es campur banyak diminta
+kalau kamu suka marah
+bisa-bisa kehilangan cinta
+<|end|>
+
+<|start|> [TEMA: cinta] [RIMA: lo, an]
+Mata belo,
+ala komedian.
+Gue sama elo?
+maunya jadian.
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, ya]
+seekor kucing mengeong-ngeong
+meminta makan pada induknya
+kalau berilmu janganlah sombong
+yang lebih pintar banyak jumlahnya
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: am, wa]
+Anak bangau berdiri diam
+Mencari ikan di tepi rawa
+Jika hidup ingin tenteram
+Jangan mudah ikutkan hawa
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ri, ni]
+buah duren kulitnya berduri
+dipetik dari pohon oleh pak tani
+melihat kamu duduk sendiri
+ingin sekali ku menemani
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ta, sa]
+Kakek tua kulitnya kusta
+Coba digosok dengan busa
+Jangan suka berkata dusta
+Karena itu memperbanyak dosa
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: at, an]
+mancing di sungai dapat sepat
+pulang ke rumah habis umpan
+carilah ilmu sampai dapat
+jangan sampai putus harapan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: at, at]
+menggali tanah dengan pahat
+membuat sumur segi empat
+lingkungan bersih badan sehat
+apapun akan terasa nikmat
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ma, ai]
+kayu patah dimakan hama
+anak kembar memakan petai
+ingatlah pepatah lama
+belajar itu pangkal pandai
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ku, oh]
+seringlah membaca buku
+biar tak di bilang lagi bodoh
+alangkah bahagianya aku
+bila lebaran nanti ketemu jodoh
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: in, ng]
+pasar baru tempatnya kain
+awas dompet jangan hilang
+desa tempatnya bermain
+seperti bolang berpetualang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: al, da]
+seorang raja bersama pengawal
+pergi berburu naik kuda
+jika ingin tidak menyesal
+jangan malas selagi muda
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: am, an]
+pergi ke laut kita menyelam
+di dalam air melihat ikan
+lewat rembulan kutitip salam
+selamat malam minggu gadis impian
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, si]
+bertemu guru diberi saran
+agar belajar selalu konsentrasi
+banyaklah makan sayuran
+agar otak cerdas berprestasi
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ak, ak]
+ada orang bengkulu dijitak
+di jitak sama orang batak
+selama jantungku berdetak
+cintaku tak akan luluh lantak
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ah, da]
+seorang anak berbaju basah
+sedang naik seekor kuda
+hidup ini sudah susah
+apalagi jika kamu tak ada
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ku, ya]
+sebelum airnya membeku
+jangan mengeluarkan buaya
+makasih udah tetap mencintaiku
+meskipun yang menggodamu kaya-kaya
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ar, na]
+bendera raja selalu berkibar
+pujangga menulis dengan pena
+siapa insan bisa bersabar
+tentu sifatnya bijaksana
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ik, an]
+hujan mengguyur air pun naik
+bawa pelampung agar aman
+nasibmu mungkin lebih baik
+namun hatimu haruslah dermawan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ah, ah]
+orang kaya rumahnya mewah
+pakai baju tak ada yang murah
+walaupun kerjanya susah
+yang penting berusaha dan berserah
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ya, ku]
+virus corona berbahaya
+penjualan masker sangat laku
+sayang kamu met tidur ya
+jangan lupa ntar mimpiin aku
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, an]
+pohon randu jatuh di empang
+air mendidih dibuang ke jamban
+salam rindu salam sayang
+hati sedih menunggu jawaban
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, an]
+putri cantik suka berdandan
+hendak pergi ke selatan
+jadilah pemuda teladan
+berbuat baik di segala medan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, an]
+koran dipakai membungkus ikan
+ikan pari punya kesaktian
+bukan hadiah yang kuharapkan
+cukuplah engkau beri perhatian
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: uk, at]
+makan bubur jangan diaduk
+karena terasa begitu nikmat
+jangan loyo jangan mengantuk
+pagi-pagi harus semangat
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: uh, uh]
+Sakit gigi selalu kambuh
+Dengar irama terasa gaduh
+Ke mana hati harus berlabuh
+Kepada Tuhan tempat berteduh
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, ai]
+burung hinggap diatas genting
+diatas pohon ada tupai
+belajar itu sangat penting
+agar cita-cita bisa tercapai
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, ri]
+maksud hati merindu bulan
+bulan hanya ada di malam hari
+wajah indah seperti bulan
+perkenalkan saya adik mari
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, ar]
+pergi ke pasar beli mainan
+mainan tersangkut di atas pagar
+mari semua tanam pepohonan
+agar udara sekitar jadi segar
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ar, ng]
+para pegulat badannya kekar
+badan atletis sedap dipandang
+ada cinta yang selalu mekar
+di hari rabu untukmu seorang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ar, ah]
+pohon jati tumbuh berjajar
+kucing kecil suka berpindah
+kalau pagi kita belajar
+ilmu masuk dengan mudah
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ta, ta]
+beli minyak beli fanta
+semua beli dari kota
+tak banyak menuntut dan meminta
+justru semakin diriku cinta
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: as, ut]
+main kelereng bersama anjas
+tiba tiba anjas kentut
+anak sekolah sudah masuk kelas
+selalu tenang tidak pernah ribut
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ka, ah]
+makan bakso tambah cuka
+tumpah airnya jadi basah
+kamu tak mau saya tak suka
+pertanda kita harus berpisah
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, an]
+Tata tertib harus dilaksanakan
+Agar warga tidak berantakan
+Salat Maghrib rajin ditunaikan
+Jiwa hampa bisa disembuhkan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, hu]
+sorong papan tarik papan
+buah keranji dalam perahu
+suruh makan awak makan
+suruh mengaji awak tak mahu
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: uh, an]
+jalan lurus menuju payakumbuh
+kayu jati bertimbal jalan
+dimana hati tak rusuh
+ibu mati bapak berjalan jalan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ik, ur]
+dari riau pindah ke tasik
+dapatlah rumah dipinggir sumur
+cuba lakukan kegiatan fisik
+juga olah raga yang teratur
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ak, ik]
+ada nilam minum kopi luwak
+dicampur arang rasanya agak tengik
+mari kita menanam budi yang banyak
+agar orang yang jahat jadi baik
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: mu, gi]
+jangan tertipu dunia semu
+tinggal di dunia hanya sepagi
+jika engkau orang berilmu
+derajatmu pasti meninggi
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, ku]
+buah kelapa di bikin santan
+diberi ayah uang saku
+ku rela jalan ke hutan
+asal kau tidak meninggalkanku
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, ti]
+kapal dagang dari seberang
+penuh muatan kayu meranti
+dari jauh tuan puan datang
+dengan senyuman kami menanti
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: is, am]
+buah belimbing buah manggis
+buah coklat sebesar mempelam
+saya tertawa sambil menangis
+melihat kakak dikejar ayam
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, ri]
+Pergi ke sawah melihat burung
+Burung beterbangan di pagi hari
+Jika ingin hidup tidak murung
+Isi hati dengan rasa syukuri
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, as]
+Bintang utara jadi pedoman
+Bagi pelayar di samudra luas
+Jika hidup punya tujuan
+Fokus langkah jangan terlepas
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ta, ga]
+tanah merah dibuat bata
+bata bagus mahal di harga
+jangan suka mengejar harta
+dengan harta kejarlah sorga
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ah, un]
+Mentari pagi muncul cerah
+Embun gugur di hujung daun
+Jika hidup mahu berkah
+Bersyukur selalu setiap tahun
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ut, or]
+pergi memancing umpannya lumut
+setelah pulang dari kantor
+jangan lupa menggosok mulut
+nafasmu bau knalpot motor
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: as, ik]
+pecah piring pecah gelas
+baru datang langsung balik
+guru tak hanya di kelas
+pengalaman itu guru terbaik
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ak, ah]
+Ke tepi pantai melihat ombak
+Pasir putih berkilau indah
+Jika hidup tak ingin terjebak
+Pegang prinsip jangan goyah
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ul, ku]
+masih berada di istanbul
+menghadiri launching buku
+moga do'aku segera terkabul
+ketemu dengan jodoh terbaikku
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ih, as]
+Air sungai mengalir jernih
+Ikan kecil berenang bebas
+Jika hati ingin bersih
+Jauhkan niat yang tidak ikhlas
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, ir]
+beli kacang lalu ditanamkan
+pantai indah putih berpasir
+jika makan harus dihabiskan
+agar tidak menjadi mubazir
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: mu, ta]
+siang malam menerima tamu
+tamu memberi cinderamata
+tekunlah dalam mencari ilmu
+niscaya sukses di depan mata
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, an]
+Ke taman sore duduk tenang
+Langit redup tampak menawan
+Jika hidup ingin terasa lapang
+Ikhlaskan hati dan lepaskan beban
+<|end|>
+
+<|start|> [TEMA: jenaka] [RIMA: da, uh]
+Naik ke bukit membeli lada
+Lada sebiji dibelah tujuh
+Apanya sakit berbini janda
+Anak tiri boleh disuruh
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, at]
+kamu kalau lebaran
+tukang ngabisin ketupat
+maaf ga bisa nemenin lamaan
+aku mau menunaikan sholat
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: im, ur]
+hujan dan kemarau adalah musim
+juga ada salju dan musim gugur
+pertanda kita umat muslim
+marilah bersama mengucap syukur
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: lu, an]
+berakit-rakit ke hulu
+berenang renang ketepian
+mantan udah ke penghulu
+kita masih kesepian
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: uk, ng]
+terasa gatal langsung digaruk
+setelah digaruk gatal berkurang
+saat insan sedang terpuruk
+jangan menyerah tetap berjuang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, gi]
+kalau ada sumur diladang
+bolehlah kita menggosok gigi
+kalau anda di warung padang
+bolehkah kita ditraktir lagi
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ah, er]
+mandi di kali rambut basah
+mencuci kain bawa dalam ember
+sudah terlambat pergi sekolah
+tertidur di kelas malah ngiler
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: un, as]
+laki-laki pubertas punya jakun
+suaranya akan jadi lebih khas
+dalam belajar kita harus tekun
+supaya tidak perlu tinggal kelas
+<|end|>
+
+<|start|> [TEMA: nasihat] [RIMA: al, an]
+Tinggi bayam berjengkal-jengkal,
+bayang dijinjing karena ringan.
+Kepada Allah bertawakal,
+tempat diri mohon pertolongan.
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, as]
+rakit di sungai sampai tepian
+airnya jernih mengalir deras
+jika memanglah demikian
+kudoakan sembuhlah lekas
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: un, ah]
+dua musim dalam setahun
+musim banjir air melimpah
+uang kertas bukanlah daun
+jangan dihambur seperti sampah
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ar, ta]
+bunga melati bunga mawar
+belinya di toko bunga nita
+jika kalian ingin belajar
+bukalah telinga dan mata
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: at, ah]
+di bulan ramadhan banyak bertobat
+memohonkan ampun kepada allah
+orang beriman hidup bermanfaat
+sembarang kerja membawa faedah
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, an]
+pemalas suka beranganangan
+hidup susah dalam lamunan
+yang muda perlu bimbingan
+supaya hidupnya dalam tuntunan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ah, ng]
+melati putih si mawar merah
+tumbuh subur dalam kandang
+ini senin pagi yang cerah
+mari kerja ingat hutang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ar, at]
+pisang muda beli di pasar
+dapat dibuat makanan lezat
+masa muda rajinlah belajar
+agar selamat dunia akhirat
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, ah]
+Pagi hari memetik belimbing
+Belimbing jatuh ke tanah merah
+Jika ingin hidup selalu bening
+Jujurlah walau terasa susah
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ya, ta]
+baju baru di hari raya
+sungguh indah dipandang mata
+ilmu itu bagaikan cahaya
+penerang jalan di malam gulita
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: at, at]
+jangan suka jadi plagiat
+agar kamu tidak digugat
+ayo kamu belajar giat
+aku yakin kamu semangat
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: mi, al]
+oleh-oleh dari sukabumi
+jangan sekedar sepatu sandal
+boleh kita krisis ekonomi
+asalkan jangan krisis moral
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, an]
+Pagi cerah memetik pandan
+Pandan wangi dibuat anyaman
+Jika ingin hidup mapan
+Kelola usaha dengan perhitungan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ar, ya]
+Pergi ke taman memetik mawar
+Mawar merah harum baunya
+Jika ingin hidup bersinar
+Perbaiki sikap dan lakunya
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: gi, ti]
+kamar agung bentuknya persegi
+disewakan penjual roti
+ku ucapkan selamat pagi
+untuk kamu sang pemilik hati
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: il, ma]
+enam sembilan bilangan ganjil
+dibolak balik tetap sama
+redam angan bagaikan terkucil
+hendak dikritik berharap nama
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, ah]
+sungguh manis buah rambutan
+rambut kecil dibalut warne merah
+setelah kita berkenalan
+bolehkah saya datang kerumah
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ar, an]
+pergi ke pasar membeli tikar
+tikar terbuat dari anyaman
+saya murid baru belajar
+kalau ada salah mohon betulkan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ar, as]
+hari minggu pergi ke pasar
+beli sayur dan juga beras
+tiap hari harus belajar
+pasti akan menjadi cerdas
+<|end|>
+
+<|start|> [TEMA: nasihat] [RIMA: ut, ng]
+Hari panas jangan ke laut
+Kalau ke laut kapal tergalang
+Hati panas jangan diturut
+Kalau diturut akal pun hilang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, an]
+buah kemumu dimakan ikan
+senyumanmu sulit kulupakan
+burung gelatik di atas nampan
+paling enak dijadikan pancingan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, ya]
+pergi berburu dapatnya kijang
+dalam hutan rimbun pohonnya
+mungkin cemburu tandanya sayang
+kalau kelewatan risih jadinya
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ak, et]
+enak rasanya buah cempedak
+buahnya jatuh jadi penyet
+biarlah mirip ketombe landak
+daripada mirip ingus monyet
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ar, an]
+Pergi ke sawah saat fajar
+Kabut tipis menutup jalan
+Jika ingin menjadi pintar
+Tekun belajar penuh ketekunan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: wa, ng]
+burung pipit turun ke rawa
+kakinya gerah kena belerang
+nenek murung jadi tertawa
+melihat kakek main kelerang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, ng]
+perih sekali tertancap ilalang
+sangat sakit susah hilang
+tajamnya kata bagai pedang
+sekali terluka tetap terkenang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: na, an]
+setelah mencairkan dana
+dia membeli rambutan
+kamu gak usah ngehina
+ingat cantikmu hasil editan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, at]
+tepung terigu jadikan adonan
+untuk dibawa ke raja ampat
+dari kecil kita berteman
+meski berpisah tetaplah bersahabat
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ik, ng]
+anak kuda tegak meringkik
+kaki belakangnya digigit walang
+saya buta berlagak celik
+tahi dipegang dikira jenang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: is, da]
+buah pepaya buah manggis
+dimakan pulang naik kuda
+kerjaannya hanya merayu gadis
+nikahnya malah sama janda
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ku, ar]
+badan sakit serasa kaku
+biar begitu terus tegar
+barang jualan tak lakulaku
+hati susah rugi besar
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ir, ir]
+beli kacang beli kecipir
+kayu jati bagus di ukir
+pada teman janganlah kikir
+jadilah orang pandai berpikir
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: gi, ng]
+malam-malam gosok gigi
+gosok gigi pakai ilalang
+lilin hidup mati lagi
+karena angin terlalu kencang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, on]
+burung pelatuk di atas dahan
+terbang pergi ke lain pohon
+hidup mati di tangan tuhan
+kepada allah kita bermohon
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ma, ku]
+tanaman diserang hama
+kata adik sepupu ibuku
+waktu jadi terasa sangat lama
+bila dirimu tak ada disampingku
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ah, ka]
+buang plastik ke tempat sampah
+sampahnya penuh waktu dibuka
+hai teman janganlah marah
+ini hanya pantun jenaka
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: lu, an]
+berakit-rakit ke hulu
+berenang-renang ke tepian
+gimana kita mau ke penghulu
+sekarang saja masih berteman
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ri, si]
+luka kaki tertusuk duri
+duri tajam bagai besi
+hapus dari hati segala iri
+dengan cinta kasih kita mengisi
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, an]
+indah nian pulau pinang
+banyak kolam sekaligus taman
+bangun pagi haruslah senang
+pergi sekolah bertemu teman
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: at, or]
+satu dua tiga empat
+masuk kantor polisi harus lapor
+hari lebaran banyak ketupat
+enak dimakan dengan opor
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: us, ng]
+di lantai ada kapur barus
+kapur dimainkan anak kucing
+daripada berbadan kurus
+disenggol dikit langsung terpanting
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: lo, ku]
+beli batik ke kota solo
+pulangnya bawa buah duku
+gantengganteng kok masih jomblo
+jadian saja sama aku
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: at, at]
+jika pohon harus dipanjat
+kaki jangan melompatlompat
+jika ingin naik derajat
+ilmu dan iman harus diangkat
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, ia]
+tubuh diikat paduka tuan
+tidak cacat tidak selia
+didalam surga ada penantian
+hanya untuk yang beramal mulia
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, ng]
+hari minggu sudahlah siang
+setelah siang menuju petang
+ditunggu tunggu gak juga datang
+sekali datang kok nagih utang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ik, pu]
+mata belo bulunya lentik
+bercahaya bagaikan lampu
+walaupun kamu wajahnya cantik
+untuk apa jika tidak dapat nyapu
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ri, as]
+dari arah timur terbit mentari
+semua orang pergi bergegas
+belajar harus setiap hari
+jika ingin juara kelas
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ar, ak]
+supaya enak roti dibakar
+serta diberi selai yang banyak
+murid dididik supaya pintar
+pintar di otak baik di akhlak
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ti, ti]
+gadis aceh penari seudati
+mata memandang tiada henti
+tawadhu merendahkan hati
+tanda iman di dalam hati
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, ng]
+Pergi ke pasar membeli ikan
+Ikan segar dibawa pulang
+Jika hidup ingin penuh ketenangan
+Jauhi dengki dan prasangka orang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ji, ih]
+daun pandan daun suji
+ada juga daun selasih
+bersihkan badan pergi mengaji
+supaya hati menjadi bersih
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ga, ra]
+wangi nian kembang kenanga
+manalah indah pohon ara
+naik gunung mencari bunga
+hati senang riang gembira
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, an]
+jauh rezeki tak perlu dipikirkan
+bekerja dan berdoa pada tuhan
+apabila pendidikan disingkirkan
+bersiap hadapi kesulitan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: bu, ng]
+Pergi ke ladang memotong tebu
+Tebu manis dibawa pulang
+Hidup rukun sesama ibu
+Membuat keluarga selalu senang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: is, ya]
+asam kandis mari dihiris
+manis sekali rasa isinya
+dilihat manis dipandang manis
+lebih manis hati budinya
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, an]
+bunyi huruf tolong lafalkan
+kalau baca ayo ucapkan
+ayat al quran mari hafalkan
+sudah hafal kita amalkan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: sa, sa]
+Ular kobra katanya berbisa
+Bisa menembus kulit raksasa
+Ikhlaskan niat dalam puasa
+Moga terhapus segala dosa
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, an]
+Burung bangau terbang perlahan
+Menyusuri rawa mencari makan
+Jika ingin hidup berkesan
+Tinggalkan jejak kebaikan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ah, ta]
+juragan pisau makan buah
+buah kotor kena tinta
+jangan risau jangan gundah
+karena derita bumbu cinta
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ik, ih]
+karena dilarang mudik
+yang merantau bersedih
+aku tak mungkin mau balik
+karena aku udah punya kekasih
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ah, an]
+di lampung ada sekolah gajah
+gajah bermain di tepi hutan
+kalau pandai bersikap ramah
+tentu banyak mempunyai teman
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ir, at]
+anak tiung anak ketitir
+anak balau terlompat-lompat
+barang dikendong habis tercicir
+barang dikejar haram tak dapat
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, un]
+Pergi pagi membeli ketan
+Ketan hangat dibungkus daun
+Jika ingin dihormati teman
+Jadilah pribadi santun
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, an]
+gunung ciremai mengesankan
+banyak tergambar dalam lukisan
+belajar itu kadang membosankan
+bosan itu satu rintangan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ti, an]
+kalau kita menebang jati
+biar serpih tumbangnya jangan
+kalau kita mencari ganti
+biar lebih kurang jangan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: in, as]
+dapet jatah beras miskin
+dibagi pas tanggal tujuh belas
+aku pasrah chatku dicuekin
+asal cintaku kamu balas
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, an]
+anak tani mengutip lokan
+lokan dikutip untuk dimakan
+sayang anak tangan-tangankan
+sayang isteri tinggal-tinggalkan
+<|end|>
+
+<|start|> [TEMA: jenaka] [RIMA: wa, lm]
+Jalan-jalan ke rawa-rawa
+Capek duduk di pohon palm
+Geli hati menahan tawa
+Melihat katak memakai helm
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, to]
+jalan-jalan sampai lamongan
+jangan lupa jajan soto
+swadaya sudah lagi tak zaman
+yang ada sekarang adalah swafoto
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: uh, ar]
+kuda hitam amat tangguh
+larinya kencang tak terkejar
+mari berjuang sungguh-sungguh
+terus berjalan agar pintar
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ar, ni]
+saat bertamu kerumah akbar
+baju kebaya dipakai dini
+melihat kamu tersenyum lebar
+sungguh bahagia hidupku ini
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ru, mu]
+ke hutan untuk berburu
+bersama teman ayahmu
+tak mungkin aku cemburu
+bila aku tak mencintai kamu
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: at, an]
+daun nipah kacangnya rapat
+hidangan tetamu di kuala maran
+buku menyimpan berjuta maklumat
+fakta ilmu cereka hiburan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, ar]
+ombak berlari ke tepi karang
+lalu mundur dengan sabar
+cintaku dating tanpa menyerang
+namun menetap dengan benar
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, an]
+dalam hutan ada beruang
+dari tengah menuju pinggiran
+nabi tidak mewariskan uang
+yang diwariskan adalah quran
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: tu, da]
+kenanga putih ada di batu
+lalu di tuai dua pemuda
+terima kasih jika begitu
+baru damai rasa di dada
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: sa, at]
+orang pandai mencintai bahasa
+bahasa santun orang terpikat
+jika bangsa menghargai bahasa
+bangsa dihormati dan bermartabat
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ya, ng]
+Pohon kapas lembut seratnya
+Dipintal halus jadi benang
+Jika hati bersih niatnya
+Hidup terasa damai dan tenang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ka, ng]
+beli penggaris dari mika
+cicak menatap hati merenung
+kemana yang kamu suka
+liburan ke pantai atau gunung
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ta, la]
+berkilau cahaya dari permata
+sebagai penghias di kepala
+siapa berbakti kepada pencipta
+tentu mendapat banyak pahala
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: et, ku]
+dari tadi jalanan macet
+tepat di depan toko buku
+sumpah kamu itu ganteng banget
+sayangnya kamu pacarnya temenku
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: in, ya]
+Pergi ke desa membawa kain
+Kain tenun rapi lipatannya
+Jika hidup ingin hati terjamin
+Jaga janji dan kepercayaannya
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ia, ah]
+tanah air adalah indonesia
+selalu membangun bangsa tanpa lelah
+jika kau ingin hidup bahagia
+rajinlah sedekah karena allah
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, at]
+hari minggu ke pasar swalayan
+naik becak dengan pak mamat
+lelah dan letih bukanlah hadangan
+berputus-asalah yang jadi penghambat
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, ah]
+Asap api di Tanjung Tuan
+Kuala Linggi bakau rendah
+Harap hati kepada tuan
+Langit tinggi ku pandang rendah
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ah, us]
+ambil manggis dengan galah
+masukkan manggis dalam kardus
+dari anakmu yang banyak salah
+meminta maaf dengan tulus
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, an]
+limau purut masak di dahan
+walau manis tak boleh dimakan
+biar penampilan seperti preman
+yang penting hati beriman
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ya, ya]
+pohon jati kuat kayunya
+pohon nyiur tinggi batangnya
+murid pandai banyak ilmunya
+bekal bagi nusa bangsanya
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: al, un]
+malammalam bertemu begal
+begal baik suka berpantun
+di sekolah itu belajar banyak hal
+selain ilmu juga sopan santun
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, an]
+baru pulang dari plesiran
+minum kopi ditemenin gorengan
+semenjak kita pacaran
+cuma kamu yang selalu ku mimpikan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: wa, na]
+burung bangau turun ke rawa
+anak sekolah membawa pena
+bagaimana tidak tertawa
+pakai baju tak pakai celana
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ah, ja]
+suka makan sudah biasalah
+rajin memasak jangan bermanja
+masih beruntung bisa sekolah
+coba membaca sambil bekerja
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: am, ng]
+tanjung pinang tanjung balam
+anak belanda matanya terang
+jauh terkenang masa silam
+mengenang bunda yang tersayang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: am, an]
+berjalan sendiri di dalam kelam
+di tengah jalan turun hujan
+sukses tidak datang semalam
+butuh perjuangan dan pengorbanan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: is, ya]
+asam kandis mari dihiris
+manis sekali rasa isinya
+dilihat manis dipandang manis
+lebih manis hati budinya
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: da, sa]
+kalau tamu dari belanda
+nanti ingin menangkap rusa
+kalau kamu banyak bercanda
+nanti bodoh sepanjang masa
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: et, gi]
+jalan di jakarta mulai macet
+banyak yang mulai keluar lagi
+aku udah kangen kamu banget
+kapan sih covid ini pergi
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: un, un]
+anak manis orangnya santun
+nenek renta jalan dituntun
+bolehlah kita bermain pantun
+pantunnya manis sebagai penuntun
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: mu, ng]
+hari jumat kedatangan tamu
+suguhkan mereka goreng kacang
+semenjak semesta menghadirkanmu
+dunia yang gelap menjadi terang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ah, ah]
+ambil bambu jadikan galah
+galah terhentak menjadi pecah
+jika kau tiada masuk sekolah
+ayah bunda pastilah resah
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ma, ng]
+sore-sore makan roti roma
+sambil duduk rumah belakang
+walau ujian masih lama
+bisa belajar dari sekarang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ek, ek]
+jalan-jalan ke rumah nenek
+pulangnya membeli cobek
+muka boleh kelihatan jelek
+udah jelek peliharaan bebek
+<|end|>
+
+<|start|> [TEMA: jenaka] [RIMA: li, ri]
+Pak Tegus pergi ke Bali
+Melihat bule sedang menari
+Aduh pantas kau bau sekali
+Kau belum mandi enam hari
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, ja]
+di sana gunung di sini gunung
+tengah-tengahnya ada sang raja
+ke sana bingung ke situ bingung
+pilih sekolah yang dekat saja
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ar, ng]
+minggu pagi pergi ke pasar
+pulangnya ketika siang bolong
+jika sirkulasi darah lancar
+sistem pencernaan juga akan plong
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ar, an]
+bikin atap dari daun lontar
+buah kemumu dimakan ikan
+bila kau menatap hatiku bergetar
+senyumanmu sulit kulupakan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, an]
+kebersihan sebagian dari iman
+himbauan kepada kawan-kawan
+jika sampah berserakan
+lingkungan kotor banyak kuman
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ih, an]
+di antara padi dengan selasih
+yang mana satu tuan luruhkan
+di antara budi dengan kasih
+yang mana satu tuan turutkan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: mu, ar]
+pohon enau pohon kemumu
+tanam lima semua berjajar
+jika engkau tak punya ilmu
+bagaimana bisa untuk mengajar?
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, an]
+Anak rusa bermain riang
+Di padang luas mencari makan
+Jika hidup ingin gemilang
+Rajin usaha jangan ditahan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: lu, an]
+berakit rakit ke hulu
+berenang renang ketepian
+aku mau kita ke penghulu
+biar kamu jangan kesepian
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ra, un]
+pisau lipat dimainkan kera
+tangannya luka lalu terjun
+makan kuat tidak terkira
+kenyangnya tidak tahi bertimbun
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ah, an]
+Pergi ke desa melewati sawah
+Padi hijau melambai pelan
+Jika ingin hidup penuh berkah
+Taat aturan dan tuntunan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ti, ti]
+jalan setapak tempat meniti
+berhenti sesaat memetik melati
+mencari ilmu jangan berhenti
+dari kecil hingga ke mati
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: in, ar]
+masak ikan namanya patin
+ikan patin beli di pasar
+tak akan rugi belajar rutin
+ku yakin manfaatnya besar
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ak, gi]
+semalaman batuk berdahak
+tak bisa tidur sampai pagi
+tertawa ibu terbahak-bahak
+melihat nenek tak punya gigi
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ah, ma]
+Anak tekukur hinggap rendah
+Mencari makan di tepi huma
+Jika hidup jangan resah
+Usaha ada hasilnya sama
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ah, ua]
+ikan belanak sekarang murah
+dijual ke pasar seekor dua
+wahai anak jangan pemarah
+kalau marah lekas tua
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ai, ru]
+liburan seru di kota binjai
+tak ingin pulang terburu-buru
+jika diri jadi pandai
+senantiasa hormatlah pada guru
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: du, na]
+buah pepaya dicampur madu
+pernah dirasa entah di mana
+adik menangis tersedu-sedu
+mainan hilang entah ke mana
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: mu, ru]
+buah mangga buah kemumu
+makan sebiji di pohon waru
+lelah aku bersabar untukmu
+lebih baik mencari cinta baru
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, at]
+ke tengah laut mencari ikan
+terik mentari sungguh menyengat
+semakin dekat dengan impian
+jangan pernah kendorkan semangat
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, ih]
+sebelum semua dilarang
+tentukan mana yang kau pilih
+pengen satnite-an kek orang-orang
+tapi akunya nggak punya kekasih
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, an]
+makan enak lauk pepesan
+duduk di tepi sungai asahan
+nabi telah memberi pesan
+kita berlindung dari kegelisahan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, an]
+tidak baik menadah tangan
+selalu mengemis dipinggir jalan
+apa garagara malasnya si insan
+tidak malu yang dia kerjakan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, ak]
+kapal nelayan di tengah lautan
+menangkap ikan jumlah banyak
+pramuka patuh pada atasan
+tidak membantah dan mengelak
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ur, ur]
+bukit barisan tanahnya subur
+menanam jagung di tanah gembur
+jauhkan diri dari takabur
+iri dengki mesti dikubur
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: es, ng]
+air santan jatuh menetes
+sisa santan jangan dibuang
+jika ingin hidup sukses
+terus berusaha tetap berjuang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, ng]
+di manakah hidupnya ikan-ikan
+di laut dalam mereka berenang
+salahnya orang dimaafkan
+jiwa besar hatimu lapang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ah, an]
+sebentar lagi langit kan cerah
+sebentar lagi berhenti hujan
+sebentar lagi libur sekolah
+sebentar lagi kita liburan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ar, ar]
+baju baru dipakai longgar
+anak cina jalan berputar
+udara segar badan bugar
+semakin cinta alam sekitar
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: lu, at]
+perahu melayu pergi ke hulu
+perahu besar telah lewat
+berangkat sekolah sarapan dulu
+supaya badan menjadi kuat
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ta, ta]
+merah warnanya batu bata
+dibawa jauh ke luar kota
+kasihan yang namanya rita
+suka iri dan minta-minta
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, ak]
+jangan jadi anak sombong
+apalagi menghina kakak
+masih kecil telah ompong
+gigi hilang ketawa ngakak
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, an]
+nemu gelang di pekarangan
+tapi gelang sudah karatan
+siapa nyampah sembarangan
+pasti pacarnya orang utan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ri, ak]
+seekor rusa tengah berlari
+karena ada ular di semak
+amalkan ilmu sehari-hari
+agar tak lupa di dalam benak
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ek, an]
+anak angsa berinduk bebek
+bebek berenang angsa berjalan
+bukan cewek sembarangan cewek
+cewek cantik jadi idaman
+<|end|>
+
+<|start|> [TEMA: anak-anak] [RIMA: ng, ng]
+Ada hiburan kuda kepang
+Penarinya sedang bergoyang
+Ayo kita ke tanah lapang
+Untuk bermain layang-layang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ur, uk]
+guru menulis dengan kapur
+beri pelajaran sambil duduk
+luka lama segera kubur
+semangat hidup terus dipupuk
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, ah]
+berlari-lari menggapai angan
+panas terik menjadi gerah
+ridho allah diutamakan
+hidup bahagia penuh berkah
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, am]
+mencuci kain di atas papan
+diiringi dengan kicauan balam
+murka orang tua murka tuhan
+doakan mereka siang dan malam
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: us, ti]
+baju batik kainnya mulus
+taruh satu di dalam peti
+guru yang baik hatinya tulus
+sayangi murid sepenuh hati
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ta, la]
+berkilau cahaya dari permata
+sebagai hiasan untuk kepala
+siapa yang bakti pada pencipta
+tentunya akan dapat pahala
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ah, it]
+di tengah jalan bertemu pak lurah
+tersandung batu langsung bangkit
+tahukah kamu yang paling murah
+nikmat sehat sebelum sakit
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: lu, au]
+sampan melaju dari hulu
+pergi ke hulu ambil limau
+aku ini gendut dari dulu
+biar gendut banyak yang mau
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ar, ur]
+main gitar memetik senar
+senar di beli dari bang igur
+kalau fikar ingin pintar
+jadilah selalu anak yang jujur
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: au, au]
+matahari bercahaya silau
+anak negeri pergi merantau
+dusta itu bagaikan pisau
+membuat pikiran selalu risau
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: tu, at]
+masuk hutan pakai sepatu
+takut kena gigitan pacat
+kalau kita selalu bersatu
+apa kerja mudah dibuat
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, ng]
+merpati terbang hendak pulang
+hari sudah mulai petang
+hanya dengan melihat kamu datang
+hati ini rasanya senang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: sa, at]
+orang bijak suka pada bahasa
+bahasa luas bahasa masyarakat
+bahasa adalah identitas bangsa
+bangsa terhormat memiliki martabat
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, ng]
+memasang foto tempatnya di dinding
+membawa mobil untuk dilelang
+gajah mati meninggalkan gading
+manusia mati meninggalkan utang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ya, mu]
+yang ngasih makan buaya
+kemarin nanyain kakakmu
+jerawatnya susah banget hilangnya
+kek rasa aku ke kamu
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ik, ya]
+apalah tanda batang betik
+batang betik panjang akalnya
+apalah tanda orang yang cerdik
+orang yang cerdik banyak akalnya
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ik, un]
+mulut manis hati nak baik
+itulah amalan turun temurun
+benda apa yang akan naik
+apabila saja hujan turun?
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ah, an]
+anak kecil bermain panah
+selepas memanah memakan ketan
+selasa pagi semakin indah
+kala melihat senyummu kawan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: bu, ih]
+awan gelap langit kelabu
+langit cerah berawan putih
+mentari pagi di hari rabu
+kumantapkan rindu untukmu kasih
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ni, ut]
+besi menempel besi sembrani
+jeruk harum jeruk purut
+anak lakilaki harus berani
+jangan penakut atau pengecut
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ih, ya]
+gajah sirkus sedang dilatih
+dilatih pelan oleh yang punya
+janganlah engkau bersedih
+sedih itu tiada gunanya
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: at, mu]
+surya tenggelam di ufuk barat
+dengan bulan tak pernah bertemu
+siapa hendak mencari akhirat
+dia harus dengan ilmu
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ku, mu]
+kapal tenggelam di sungai duku
+di sungai duku ada jamu
+selamat malam wahai mantanku
+aku rindu sekali padamu
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: at, ik]
+ambil mesin pergi membabat
+engkol mesin talinya ditarik
+selamat malam dan beristirahat
+semoga esokmu lebih baik
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, ja]
+sungguh indah bunga di taman
+ada mawar dan bunga kamboja
+katanya teman mengaku teman
+kalau ada maunya saja
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ya, ar]
+main ke pasar cari buah srikaya
+makan sambil berdiri di kapal layar
+apa guna punya harta kaya
+jika amal tak pernah dibayar
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: tu, an]
+buah duku di atas batu
+batu besar untuk bangunan
+dengan teman saling membantu
+itu tanda murid budiman
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: as, ng]
+kue enak dari talas
+dimakan oleh anak ompong
+itulah nasib anak malas
+badan gendut otaknya kosong
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ra, ti]
+Kain songket benang sutera
+Disimpan rapi di dalam peti
+Jika hati ingin sejahtera
+Jangan iri dalam hati
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, ng]
+lengus sapi dalam rerumputan
+dijerat tali tembus kehidung
+ilmu yang baik karena panutan
+tiada tersesat karena terlindung
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ri, ng]
+ini awal bulan januari
+rencana ingin mendaki gunung
+kalau tuan bijak bestari
+binatang apa tanduk di hidung
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ma, an]
+orang kaya suka berderma
+dari utara ke selatan
+ilmu itu yang pertama
+barulah amal perbuatan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ap, an]
+burung terbang dengan sayap
+lincah berenang si anak ikan
+terima kasih yang besar terucap
+untuk nyonya dan tuan budiman
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: bu, an]
+minum air dari labu
+boleh dibawa bila berjalan
+bimbingan awal dari ibu
+serta kasih yang berkekalan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, an]
+pagi hari kita sarapan
+secangkir kopi sebagai teman
+senyuman pagi dibiasakan
+agar kita diberkahi tuhan
+<|end|>
+
+<|start|> [TEMA: cinta] [RIMA: ng, ri]
+Di Bandar banyak orang
+hilir mudik kanan dan kiri
+Tak pernah pudar kasih sayang
+Tambah erat hari ke hari
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: et, na]
+jalanan mulai kembali macet
+banyak yang mulai berkelana
+sebenarnya kangen kamu banget
+tapi aku ndak bisa kemana-mana
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ak, ng]
+karena ngerem mendadak
+mobilnya menjadi oleng
+pengen cepat punya anak
+anak-anak yang cantik dan ganteng
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ti, gi]
+walau wangi bunga melati
+kan dipetik di waktu pagi
+walau cinta sampai mati
+dunia pasti ditinggal pergi
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ar, ng]
+masakan baru rasa hambar
+pohon besar kayu jelutung
+aku belajar menggambar
+kakak belajar berhitung
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: uh, at]
+buah naga dibelah tujuh
+beri kecap dibalut coklat
+meski raga terpisah jauh
+hati tetap terpaut erat
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: in, ar]
+Anak dara menenun kain
+Benang disusun penuh sabar
+Jika hidup hendak berlain
+Tingkatkan diri agar bersinar
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, an]
+jalan-jalan ke kota medan
+hendak membeli satu tempayan
+bekerja sampai sakit badan
+badan sakit habis uang gajian
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, ta]
+indahnya lautan dalam alunan
+menyapa kita seolah nyata
+jangan engkau memberi harapan
+jika hanya bisa berdusta
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, an]
+makan roti si roti kacang
+beli di warung pak bayan
+untukmu orang yang aku sayang
+selamat malam aku sampaikan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, at]
+ke danau toba patah pendulang
+anak nelayan balik ke parapat
+kami datang untuk mengundang
+untuk mendapat doa selamat
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ah, at]
+di tepi kali saya menyinggah
+menghilang penat menahan jerat
+orang tua jangan disanggah
+agar selamat dunia akhirat
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: la, ta]
+lari cepat si gundala
+tuk mengejar laju kereta
+memang akan banyak kendala
+dalam menggapai citacita
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, ng]
+Burung belibis berenang pelan
+Di danau biru yang tenang
+Jika ingin hidup berkesan
+Saling peduli jangan menyerang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: sa, at]
+Hari Jumat, hari Selasa
+Pergi ke kota membawa obat
+Insan di dunia banyak dosa
+Mari bersihkan dengan bertobat
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, an]
+Pagi cerah melihat taman
+Bunga warna-warni bermekaran
+Jika ingin banyak teman
+Bersikap ramah penuh kesantunan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ri, as]
+sabtu enam januari
+dua ribu delapan belas
+kau itu seperti matahari
+menerangi hatiku sepanjang nafas
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ku, ti]
+bunga mawar kesukaanku
+warnanya merah menarik hati
+hari ini ulang tahunku
+sudah ditunggu dan dinanti-nanti
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: al, ta]
+anak kucing di dalam kapal
+kapal berlayar sampai jakarta
+adik tertawa terpingkal-pingkal
+melihat monyet berkacamata
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ua, ua]
+melihat orang bahagia semua
+bersepeda roda dua
+turuti perkataan orang tua
+agar disayangi oleh semua
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ni, du]
+yang lagi pake bikini
+dibawah pohon mengkudu
+tiap lagi liburan gini
+hatiku pasti terpenjara rindu
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: am, ih]
+listrik mati lampu padam
+lampu padam berwarna putih
+jangan tidur terlalu malam
+besok ngantuk badannya letih
+<|end|>
+
+<|start|> [TEMA: cinta] [RIMA: ir, an]
+Single bukanlah takdir;
+tapi tangga menuju kedewasaan.
+bukalah cinta dari semua tabir;
+biar hidupmu dalam lingkup kebahagiaan.
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ra, ga]
+badai laut terus mendera
+perahu karam lubang di rongga
+apa sebab cinta membara
+agar semarak rumah tangga
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: tu, ng]
+kayu cendana diatas batu
+sudah diikat dibawa pulang
+adat dunia memang begitu
+benda yang buruk memang terbuang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, an]
+Perahu kecil di sungai tenang
+Dayung diayun perlahan-lahan
+Jika tekun dalam berjuang
+Cita terangkat jadi kenyataan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ak, an]
+ambil kayiu jadikan pasak
+pasak penahan pondok papan
+meski teman sangat banyak
+sahabat sejati jangan lupakan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ga, ra]
+wangi nian kembang kenanga
+manalah indah pohon ara
+naik gunung mencari bunga
+hati senang riang gembira
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, an]
+layang layang terbang melayang
+melayang tinggi tak terlihatkan
+ayoo  kawan bersembahyang
+jangan sampai melalaikan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, ul]
+jika terjumpa ular tedung
+carilah buluh kayu pemukul
+berani buat beranilah tanggung
+tangan menjinjing bahu memikul
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ri, as]
+sekarang bulan januari
+tanggalnya tanggal sebelas
+jodoh yang kau caricari
+mungkin sekarang udah tewas
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: wa, an]
+kain tenun dari sumbawa
+kain batik dari pekalongan
+jika ingin jadi mahasiswa
+sekolah dasar jangan diabaikan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, ci]
+jangan pergi mandi di lombong
+emak dan kakak sedang mencuci
+jangan suka bercakap bohong
+semua kawan akan membenci
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ar, un]
+elok namanya kota siantar
+bersih asri orangnya rukun
+walau jumpa hanya sebentar
+kesan terpahat sepanjang tahun
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: wa, ng]
+ikan gabus di rawa-rawa
+ikan sepat nyangkut di jaring
+perut sakit menahan tawa
+melihat gigi lompat ke piring
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, ah]
+pakai payung di kala hujan
+kena baju pastilah basah
+kalau ingin lulus ujian
+rajin belajar pantang menyerah
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ki, or]
+soimah bersama anak laki-laki
+duduk makan keropok lekor
+yang mengejar tak berkaki
+yang dikejar tidak berekor?
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ab, ya]
+udah baca sepuluh bab
+ada teriakan dari jalan raya
+kamu kalau berhijab
+cantiknya tiada duanya
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, an]
+kertas kado kertas koran
+pisang hijau beli setandan
+sore hari belajar al quran
+sebagai bekal hari kemudian
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: is, ar]
+kain besurek kain bertulis
+pakaian raja bugis - makassar
+di lauh mahfuz sudah tertulis
+janji sudah tak dapat ditukar
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ji, os]
+tepung terigu tepung kanji
+kanji jangan jadikan kompos
+jadilah anak yang terpuji
+hidup hemat jangan boros
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ah, ga]
+pulau pandan jauh ke tengah
+gunung daik bercabang tiga
+hancur badan dikandung tanah
+budi yang baik di kenang juga
+<|end|>
+
+<|start|> [TEMA: nasihat] [RIMA: ng, an]
+Sungguh kusam rumah kosong
+Tidak mencerminkan sebuah kebersihan
+Jangan pernah berlaku sombong
+Karena sombong, awal dari kejatuhan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: at, at]
+anak sekolah belajar giat
+sudah besar punya pangkat
+menuntut ilmu sepanjang hayat
+dengan ilmu beroleh berkat
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ak, ak]
+ada orang maluku dijitak
+dijitak sama orang batak
+selama jantungku masih berdetak
+cintaku tak akan luluh lantak
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, ek]
+lambat sekali jalannya keong
+kakek merokok dengan kretek
+masih kecil sudah ompong
+mirip dengan nenek-nenek
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ut, ak]
+tamu datang hendak disambut
+jarum patah dalam kotak
+berkatalah dengan lembut
+jangan sampai lidah membentak
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ah, ah]
+pinggir sungai banyak nipah
+sayang airnya terasa sepah
+kasih sayang semakin berlimpah
+jadikan hidupku semakin indah
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ah, at]
+membawa cangkul pergi ke sawah
+jangan lupa membawa pahat
+hidup pasti banyak masalah
+maka jangan ditambah berat
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, an]
+buah yang enak itu rambutan
+rasanya itu sangat menawan
+jangan terlena dengan lebaran
+masa depan masih panjang hai kawan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: as, am]
+pergi ke kebun menanam talas
+pulang membawa daun salam
+makanya jangan suka malas
+sikat gigi pagi dan malam
+<|end|>
+
+<|start|> [TEMA: anak-anak] [RIMA: di, ni]
+Kain batik banyak sekodi
+Perca tersimpan di dalam goni
+Turun ke sawah menanam padi
+Bermain lumpur bareng petani
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ko, or]
+pasar baru baju koko
+pergi sendiri naik motor
+kasihan yang bernama joko
+artinya jorok dan kotor
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, ng]
+Ke pantai melihat karang
+Ombak besar datang berulang
+Jika ingin hidup tenang
+Jangan suka menipu orang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: sa, ma]
+ular kobra ular berbisa
+bisanya tidak ber aroma
+kegagalan adalah hal yang biasa
+banyak jalan menuju roma
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ri, ng]
+makan siang menunya teri
+kalau besok menunya udang
+saya senang kalau idul fitri
+karena banyak yang ngasih uang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ri, ng]
+adik senang belajar tari
+belajar setelah pulang berenang
+kalau kamu jadi anak mandiri
+ibu dan ayah pastilah senang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: gi, gi]
+ambil air dari perigi
+sudah mandi kotor lagi
+jangan malas gosok gigi
+bangun tidur di waktu pagi
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ni, ri]
+anak sekolah rambutnya poni
+lucu dan lincah berlari-lari
+sungguh indah pagi ini
+membuat hati cerah berseri
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: du, ya]
+ketika memanen madu
+membawa bekal pepaya
+selamat pagi hatiku yang rindu
+semoga lekas ku temukan obatnya
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, ng]
+memasang foto tempatnya di dinding
+membawa mobil untuk dilelang
+gajah mati meninggalkan gading
+manusia mati meninggalkan utang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, an]
+bambu tali bambu anyaman
+diambil oleh si bujang tampan
+dunia ini bukan tujuan
+tempat berangkat awal kehidupan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, an]
+ambil bambu jadikan jembatan
+jembatan tempat jalannya si tuan
+merantau jauh dari kalimantan
+belajar bersama dengan kalian
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ir, ka]
+mari beriman kepada takdir
+mari takut kepada neraka
+bolehlah sindir menyindir
+sindiran lewat pantun jenaka
+<|end|>
+
+<|start|> [TEMA: adat] [RIMA: ng, ka]
+Lebat daun bunga tanjung
+Berbau harum bunga cempaka
+Adat dijaga pusaka dijunjung
+Baru terpelihara adat pesaka
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ut, at]
+elok berjalan ke kandang belut
+belutnya lepas datanglah sepat
+elok berbini penyanyi dangdut
+perut kenyang goyangan dapat
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: uh, at]
+pergi ke masjid subuhsubuh
+pulangnya langsung pergi rapat
+mana mungkin cepat sembuh
+minum obat saja kamu tak sempat
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, ti]
+beli salak beli kedongdong
+belinya di pasar kramat jati
+jangan pernah menjadi pribadi sombong
+agar terhindar dari penyakit hati
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ia, ki]
+waktu ada di rusia
+kemanapun selalu jalan kaki
+hidupku tak mungkin bahagia
+bila cintamu belum ku miliki
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ra, ga]
+Ada arang merah membara
+Arang dibuang tengah telaga
+Anugerah Allah tiada terkira
+Memberi kita hidup yang berharga
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ku, tu]
+di rumah kepala suku
+katanya ada banyak hantu
+rindu ini seperti saudaraku
+ia menemaniku setiap waktu
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: li, ya]
+orang sasak pergi ke bali
+membawa pelita semuanya
+berbisik pekak dengan tuli
+tertawa si buta melihatnya
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, an]
+sayang-sayang buah kepayang
+buah kepayang hendak dimakan
+manusia hanya boleh merancang
+kuasa allah menentukan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, ng]
+ada hiburan kuda kepang
+penarinya sedang bergoyang
+ayo kita ke tanah lapang
+untuk bermain layang-layang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ja, ih]
+anak kecil bermanjamanja
+pada ibu yang penuh welas asih
+cukup sampai di sini saja
+dan saya ucapkan terima kasih
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ai, ti]
+daging ayam dibuat gulai
+buat dimakan kita nanti
+dirimu seorang yang ternilai
+takkan pernah bisa diganti
+<|end|>
+
+<|start|> [TEMA: cinta] [RIMA: an, ik]
+Pergi jalan-jalan,
+jam 11 harus balik.
+Ga ada penyesalan,
+kamulah yang terbaik.
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, an]
+burung landas dari tangan
+burung merpati makan menyan
+yang membuang sampah sembarangan
+bisa jadi pacarnya orang utan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: at, et]
+data-data masyarakat
+kenapa kok di sebar di internet
+kamu itu memang jahat
+senyummu bikin aku kangen banget
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: is, is]
+jalan-jalan ke kota paris
+banyak rumah berbaris-baris
+biar mati diujung keris
+asal dapat dinda yang manis
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ar, ri]
+kemana kancil kita kejar
+ke dalam pasar kita mencari
+ketika kecil rajin belajar
+setelah besar senanglah diri
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: in, ah]
+pergi ke toko membeli kain
+kena air kainnya basah
+kalau kamu jadi pemimpin
+harus berlaku jujur dan amanah
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: um, ut]
+ayam berbintik suka minum
+kaki mengais kelapa parut
+yang cantik saja murah senyum
+kamu jelek kok cemberut
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, ng]
+Pergi ke rawa mencari ikan
+Ikan kecil masuk ke jaring
+Jika ingin raih harapan
+Berjuang tekun jangan berpaling
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ta, na]
+pohon selasih tumbuh melata
+tumbuh perdu jauh di sana
+sepasang kekasih mabuk bercinta
+siang merindu malam merana
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, ng]
+ramai desa ada perayaan
+di sungai besar orang berenang
+kalau punya cewek pengertian
+hati bahagia hidup pun tenang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, ci]
+jalan kelam disangka terang
+hati kelam disangka suci
+akal pendek banyak dipandang
+janganlah hati kita dikunci
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: as, an]
+ambil kelapa lalu dikupas
+biar nanti dibuat santan
+kalau ada suka barang bekas
+ini ada iklan penjual mantan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, at]
+jalanjalan ke kota sama paman
+eh ternyata cuma beli sikat
+dari sekian banyak teman
+cuman engkau yang paling dekat
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, ng]
+pagi hari makan manisan
+makan manisan di kota padang
+selamat datang saya ucapkan
+kepada para tamu yang sudah datang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ja, sa]
+bunga cantik namanya seroja
+hewan lentik namanya rusa
+jalanjalan kemana saja
+mungkin ke kota atau ke desa
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, an]
+anak ayam dalam kurungan
+senja hari makan ketan
+jangan jajan sembarangan
+jajan yang bersih jaga kesehatan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: at, at]
+tali kapas tali kawat
+pohon randu buahnya lebat
+kalau pemudanya kuat
+negarapun akan hebat
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: et, ik]
+dimanamana jalan macet
+terpantau dipadati para pemudik
+lagi kangen kamu banget
+kangen ngajak kamu piknik
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: as, ah]
+makan bubur makan talas
+anak ustadz memakai jubah
+tukang mencuri akan dibalas
+hidupnya akan penuh musibah
+<|end|>
+
+<|start|> [TEMA: cinta] [RIMA: ah, ik]
+Beli kain warna nya merah
+Dari kediri pake nya batik
+Di godain jangan marah
+Salah sendiri punya wajah cantik
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ra, ti]
+memang pana air bara
+untuk memasak teh melati
+cobalah engkau berbicara
+supaya aku bisa mengerti
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: et, ng]
+biar kuenya lebih awet
+ini jangan sampai kosong
+kamu itu sok kecantikan banget
+cantik editan aja sombong
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ri, ur]
+ikut upacara pagi hari
+baris-berbaris dengan teratur
+suka keluar malam hari
+kalau siang malah tidur
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, it]
+ada untungnya membeli terong
+terong dimasak tidaklah pahit
+ada untungnya bersuami ompong
+meski marah tak bisa menggigit
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, ul]
+ada perampok ada maling
+sama-sama bernama adul
+kepalaku pusing tujuh keliling
+binatang apa yang sangat jadul?
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: in, ng]
+pasar baru pusatnya kain
+awas dompet jangan hilang
+desa tempatnya bermain
+bagai bolang berpetualang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, an]
+perahu layar ke tepian
+dari hulu sungai asahan
+daripada hidup kesepian
+mending kita cepat nikahan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ir, an]
+duduk bersandar dekat sopir
+bis kota belok kiri belok kanan
+dunia ini surga bagi kafir
+penjara bagi orang beriman
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: am, la]
+buah sirsak rasanya asam
+dibuat jus untuk dengan gula
+hati siapa tidak akan muram
+tak punya uang ingin membeli bola
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ru, ar]
+adik membeli mainan baru
+lalu disimpannya di dalam kamar
+kalau mau disayang ibu guru
+rajin-rajinlah kamu belajar
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, ah]
+lari aku menuju karang
+kaki luka alirkan darah
+kecil memang diriku sekarang
+tapi besar niatku sekolah
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, an]
+Burung kecil hinggap di dahan
+Angin sepoi datang perlahan
+Jika ingin masa depan
+Bersungguhlah wahai kawan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ar, bu]
+burung nuri di dalam sangkar
+sangkar dibuat dari bambu
+tidak baik sering bertengkar
+kalah menang jadi abu
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: tu, us]
+Ke sungai deras meniti batu
+Batu licin terkena arus
+Jika ingin hidup bersatu
+Bangun percaya tanpa putus
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: at, at]
+angin bertiup dari barat
+bertiup sebentar hanya lewat
+rindu ini begitu berat
+hendak dilepas jua tak kuat
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ti, ti]
+enaknya gulai ditambah roti
+untuk bekal dalam pedati
+sudah pandai rendah hati
+pastilah dia lelaki sejati
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ar, ai]
+pergi jalan-jalan kepasar
+pergi lagi ke tempat gadai
+mari kita rajin belajar
+rajin belajar supaya pandai
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, am]
+jika pemuda sedang kasmaran
+pikirannya berkabut bertemaram
+jika hidup jauh dari quran
+hati gelisah tak pernah tentram
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ik, ah]
+yogyakarta kota batik
+kebun rambutan banyak lebah
+ayahku orangnya baik
+suka memberi banyak hadiah
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: at, at]
+pasti datangnya hari kiamat
+tak ada yang tahu waktu yang tepat
+ayo menjalankan shalat jumat
+raihlah berkatmu di akhirat
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: pa, ua]
+membuat santan dari kelapa
+kelapa dibelah menjadi dua
+jangan lupa saling sapa
+dengan yang muda maupun yang tua
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ih, an]
+suara lembah hanya lirih
+terdengar sayup di tengah hutan
+mari menyapu sampai bersih
+kuman hilang sehatlah badan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, ah]
+kalau kita pergi ke pangkalan
+lebih baik makan di sawah
+kalau kita tidak ada keperluan
+lebih baik diam di rumah
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: is, un]
+afgan punya lagu sadis
+dinyanyikan oleh si maitun
+selamat kamis nona manis
+memang manis tapi berjakun
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, mu]
+meski aku sudah kenyang
+tetap harus minum jamu
+perempuan yang ku sayang
+bolehkah aku bertamu?
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ar, ar]
+ayam memanjat kayu pagar
+hanya berkokok berputar-putar
+badan sehat tubuh bugar
+otak kita semakin pintar
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, ng]
+mawar berduri jatuh di papan
+dipetik oleh para dayang
+kututup hari dengan ucapan
+selamat malam kekasihku sayang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ni, ya]
+baunya harum mangga kweni
+makan satu dicampur pepaya
+alangkah sedihnya nasibku ini
+dibandingkan dengan orang yang kaya
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ru, an]
+pergi ke sungai berburu
+makan berburu dengan teman
+murid yang rajin dicintai guru
+itu murid yang berbudiman
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: wa, du]
+pohon manggis di tepi rawa
+tempat lebah menyimpan madu
+sedang menangis nenek tertawa
+melihat kakek bermain gundu
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, an]
+sinetronnya gagal tayang
+dia nangis depan perapian
+jgn malu-malu panggil sayang
+kita kan sudah resmi jadian
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ih, uh]
+Ombak berlari di pasir putih
+Perahu kecil terikat sauh
+Jika kasih tak pernah beralih
+Mengapa jarak terasa jauh
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ar, ar]
+hujan dan petir menggelegar
+kilat terang menyambarnyambar
+meskipun tanggung jawabmu besar
+aku wanita penunggu yang sabar
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ik, ng]
+buah nangka baru dipetik
+dicampur duku di atas loyang
+ada banyak perempuan cantik
+hanya kamu yang aku sayang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, an]
+ada tupai mengambil kerang
+gubuk kecil suara ratapan
+orang pandai sangatlah tenang
+senyuman teduh mantap tatapan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, uh]
+pak mamat memanjat rambutan
+jangan pegang dahan yang rapuh
+selamat hari selasa buat teman
+yang sedang dekat maupun jauh
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ya, ab]
+karena psbb di surabaya
+selalu bawa surat tugas lab
+nyari jodoh tak harus yang kaya
+yang penting setia dan bertanggungjawab
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: al, ku]
+si ganteng aliando dipanggil al
+tanpa diduga datang kerumahku
+sudah ku duga dari awal
+kau ingin uangku bukan cintaku
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, ka]
+berlayar kapal dari lautan
+menuju arah selat malaka
+lebar kepala daripada badan
+apakah itu cobalah terka?
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, ar]
+Pergi ke kebun menanam terong
+Terong ungu tumbuh berjajar
+Jika ingin hati tak kosong
+Isi hari dengan belajar
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ri, ng]
+bermain layangan di sore hari
+angin kencang benang genting
+jangan hanya berdiam diri
+beraksi adalah yang terpenting
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: lu, ng]
+Air pasang singgahlah dulu
+Dapatlah berhenti di pulau karang
+Hatiku bimbang bertambah pilu
+Ingat kekasih di rantau orang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: up, gi]
+bila kecil boleh ditiup
+sudah besar janganlah lagi
+kalau tercucuk ia meletup
+kalau terlepas terbangnya tinggi
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: if, an]
+tempat parkir pasang tarif
+kendaraan dijaga jadi aman
+pemuda itu harus produktif
+tidak boleh bermalas-malasan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ra, ur]
+api membakar hutan belantara
+kucing hutan sedang tertidur
+biar hidup sebatang kara
+budi pekerti tetap bertutur
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ah, ng]
+langin senja sangat indah
+membuat jiwa menjadi tenang
+sekolah rapi tanpa sambah
+mata jadi sedap memandang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: tu, an]
+buah pepaya di atas batu
+habis ludes dimakan menjangan
+memang cantiknya nomer satu
+tapi judes gak ketulungan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ya, an]
+sayur lodeh mana ketupatnya
+makan besar jadi kenangan
+buanglah sampah pada tempatnya
+jangan buang sampah sembarangan
+<|end|>
+
+<|start|> [TEMA: cinta] [RIMA: ik, na]
+Beribu-ribu kain batik
+Hanya satu yang tertimpa pena
+Beribu-ribu gadis cantik
+Cuma dirimu yang mempesona
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ta, ta]
+anak kecil berkepang pita
+hendak berangkat main ke kota
+padamu aku jatuh cinta
+siang malam tampak di mata
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ih, ya]
+melati wangi melati putih
+rempahrempah banyak gunanya
+mari kita hidup bersih
+buang sampah pada tempatnya
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ra, du]
+mulanya duka kini menjadi lara
+teman tiada hanyalah sendu
+bila rindu mulai membara
+itulah tanda cinta berpadu
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, ai]
+rumput segar makanan kambing
+kambing makan dilihat tupai
+masuk sekolah untuk dibimbing
+mentuntu ilmu supaya pandai
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: is, is]
+sarapan dengan roti kismis
+celupkan ke dalam teh manis
+selamat pagi di hari kamis
+semoga cintamu tak pernah habis
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ri, ta]
+padang temu padang baiduri
+tempat raja membangun kota
+bijak bertemu dengan jauhari
+bagaikan cincin dengan permata
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: un, il]
+petik satu buah sukun
+sayang buah masih kecil
+hendaknya belajar dengan tekun
+dengan tekun bisa berhasil
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ah, ah]
+Ke kebun melihat lebah
+Lebah hinggap di bunga merah
+Jika ingin hidup berkah
+Rajin ibadah jangan lengah
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, ar]
+awan hitam turun hujan
+ikan berenang di kolam lebar
+dunia ini adalah ujian
+hadapi dengan penuh sabar
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: di, ti]
+turun ke kali untuk mandi
+kain perca di dalam peti
+jadilah anak yang berbudi
+kepada tuhan selalu berbakti
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ah, ah]
+kain batik warnanya merah
+kena hujan kainpun basah
+lebih baik kita menikah
+supaya cinta mendapat berkah
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ah, ua]
+ikan blanak sekarang murah
+dijual ke pasar seekor dua
+wahai anak jangan pemarah
+kalau marah lekas tua
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, ai]
+Apa guna pergi ke ladang
+Bila padi tidak bertuai
+Apa guna menanti abang
+Bila adik tidak sesuai
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ri, ta]
+jikalau lengang dalam negeri
+marilah kita pergi ke kota
+heran tercengang kucing berdiri
+melihat tikus naik kereta
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, an]
+bunga layu genggam di tangan
+balon diisi menjadi ringan
+kalau pergi ke tempat kondangan
+hati pun sedih melihat yang gandengan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: gi, ng]
+belum makan sedari pagi
+kata anak penjual bawang
+jangan kau ragukan lagi
+cintaku ini untukmu seorang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, at]
+gemuruh tubuh bukan kepalang
+diasah lembing berkilat-kilat
+gemetar tubuh harimau belang
+nampak kambing pandai silat
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: al, da]
+seorang raja bersama pengawal
+pergi berburu naik kuda
+jika ingin tidak menyesal
+jangan malas selagi muda
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ka, an]
+motogp di sirkuit mandalika
+ada aksi ritual pawang hujan
+gamau lagi hatiku terluka
+nyari yang ngajak nikah bukan pacaran
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ah, ak]
+terkena air pasti basah
+hilangkan semua daki kerak
+apa gunanya hanya sekolah
+ijazah didapat ilmu pun tidak
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: uh, an]
+anak ayam turun sepuluh
+mati satu tinggal sembilan
+tuntut ilmu bersungguh-sungguh
+suatu jangan ketinggalan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ih, an]
+di bulan ramadhan orang tarawih
+sudah sembahyang membaca qur'an
+orang beriman hidupnya salih
+dadanya lapang lakunya sopan
+<|end|>
+
+<|start|> [TEMA: jenaka] [RIMA: ur, ik]
+Di pinggir kolam makan bubur
+Jangan lupa pakai keripik
+Dari semalem aye ga bisa tidur
+Selalu teringat wajah mu yang cantik
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, ng]
+Burung kenari terbang ke dahan
+Burung nasar riang berdendang
+Sekolah bestari ada wawasan
+Membentuk intelek yang cemerlang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ik, ar]
+dia baru aja di suntik
+karena penyakit cacar
+iya kamu memang cantik
+tapi maaf aku udah punya pacar
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ru, mu]
+ke hutan untuk berburu
+bersama teman ayahmu
+tak mungkin aku cemburu
+bila aku tak mencintai kamu
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ih, ta]
+Pergi ke sawah membawa benih
+Benih padi ditanam rata
+Jika ingin hasilnya bersih
+Niatkan kerja dengan cinta
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, ng]
+kayu tumbuh silang menyilang
+adik jatuh eksklusif dibopong
+lucunya bukan kepalang
+melihat kakek giginya ompong
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, ng]
+burung terbang jauh melayang
+pergi pagi datang siang
+agama islam memiliki tiang
+tiang kuat namanya sembahyang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ga, uh]
+buah kenari buah mangga
+di dalam karung ada sepuluh
+agar orang tuamu bangga
+jadilah kamu anak patuh
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: at, at]
+Datang kemari bawa alpukat
+Jangan lupa membungkus tomat
+Jalani hari dengan bertobat
+Semoga kita selalu selamat
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, ng]
+Pergi mendaki melihat awan
+Langit biru luas terbentang
+Jika hati dipenuhi iman
+Langkah hidup terasa terang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ah, ar]
+daun talas wadah kecambah
+bawa sekarung ke tengah pasar
+siapa yang malas waktu sekolah
+akan menyesal di waktu besar
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ar, at]
+banyak hutan kayunya terbakar
+musim kemarau tak bersahabat
+jangan niat mencari pacar
+carilah jodoh dunia akhirat
+<|end|>
+
+<|start|> [TEMA: budi] [RIMA: ih, an]
+Di antara padi dengan selasih
+Yang mana satu tuan luruh kan
+Di antaracbudi dengan kasih
+Yang mana satu tuan turutkan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ah, ah]
+batu gunung bisa terbelah
+banyak hewan yang berpindah
+nikmati masa-masa sekolah
+inilah masa yang sangat indah
+<|end|>
+
+<|start|> [TEMA: ibu] [RIMA: bu, ya]
+Tanam ubi tanam tebu
+Tanam pula di tepi paya
+Terima kasih kepada ibu
+Membesarkan kita hingga berjaya
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ku, an]
+bertemu kepala suku
+waktu ada di kalimantan
+alangkah bodohnya aku
+bila masih berharap pada mantan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ak, al]
+beli kentang dibuat rujak
+biar mantap ditambah sambal
+tidur terlentang tiada nyenyak
+tidur tengkurap ada yang mengganjal
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, an]
+pergi ke pasar membeli ikan
+ikan digulai dengan daun pandan
+berkali-kali sudah dimaafkan
+jangan lagi ulang kesalahan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, ah]
+Pergi ke desa menjelang petang
+Lampu menyala di tiap rumah
+Jika ingin hidup selalu tenang
+Jangan suka membuat resah
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: uh, uh]
+badan sakit belum sembuh
+badan tua makin rapuh
+meski jauh rela kutempuh
+demi mendapatkan kasih yang utuh
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: mu, ta]
+pergi sekolah meminum jamu
+minum jamu di balai kota
+sekolah untuk mencari ilmu
+bukan cari nilai semata
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: da, gi]
+garam pada kecap pun ada
+sayang lada terlupa bagi
+pantun ada ucapan pada
+sayang tiada berdoa lagi
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ut, ak]
+bunyi kereta tut tut tut
+terdengar hingga ci salak
+udin lari terkentut-kentut
+rupanya dikejar anjing galak
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: wa, an]
+Anjing bermain di rawa-rawa
+Kera hutan sedang berpacaran
+Bagaimana hati tak tertawa
+Rambut botak sering sisiran
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ar, an]
+yogyakarta kota pelajar
+surabaya kota pahlawan
+anak yang suka rajin belajar
+pasti banyak ilmu pengetahuan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: al, pi]
+serapah disembur mengobati gatal
+tok bomoh membaca jampi
+sebelum tidur tepuk bantal
+menyeru nama dalam mimpi
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: as, us]
+masak telur pakai kompor gas
+lihatkan jangan sampai hangus
+jadi orang jangan malas
+agar rezeki mengalir terus
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, an]
+baju baru dititipkan
+jatuh sepeda ke selokan
+ada berapa sholat diwajibkan
+sehari semalam mesti dikerjakan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ru, us]
+baju baru berwarna biru
+terbuat dari kain yang halus
+patuhilah perkataan guru
+agar dapat nilai yang bagus
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, in]
+laut dalam tempat berenang
+tempat ikan bermain-main
+sehari seutas benang
+setahun menjadi sehelai kain
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: am, an]
+jika ikan di dalam kolam
+akan susah mencari makan
+jika kita rusakan alam
+bala musibah akan diturunkan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ah, ah]
+ambil bambu jadikan galah
+galah terhentak menjadi pecah
+jika kau tiada masuk sekolah
+ayah bunda pastilah resah
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ar, at]
+kembar bukan sembarang kembar
+kembar sama saat dilihat
+belajar bukan sembarang belajar
+belajar ilmu yang bermanfaat
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ia, ma]
+tinggi gunung puncak muria
+lewat lembah hijaunya sama
+jadilah lelaki yang mulia
+berakhlak serta punya agama
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ar, ar]
+jika angin berputar-putar
+layang-layang tak terkejar
+jika adik ingin pintar
+rajin-rajinlah belajar
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ut, as]
+Cahaya fajar menyingkap kabut
+Menyentuh sawah menghijau luas
+Jika tutur lembut terpaut
+Hati keras pun luluh beralas
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, an]
+kain yang rapi dalam lipatan
+janganlah adik kusut kusutkan
+kalaulah hendak membeli jajanan
+lihatlah label pada makanan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: li, ta]
+sungguh indah si pulau bali
+disebut orang pulau dewata
+kalau pandangan tak lagi jeli
+sudah saatnya berkacamata
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, ah]
+mancing ikan dapatnya udang
+di bawa saja pulang ke rumah
+perjalanan masih panjang
+meski lelah bertawakallah
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: pi, ng]
+cari rumput untuk makan sapi
+dicari ke ladang seberang
+malam minggu bikin status sepi
+ingat mantan dah jadi bini orang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, ta]
+yang pake nama samaran
+kemarin bajunya kena tinta
+kamu tuh jangan baperan
+status di like langsung dikira cinta
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ih, an]
+suara lembah hanya lirih
+terdengar sayup di tengah hutan
+mari menyapu sampai bersih
+kuman hilang sehatlah badan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: at, ah]
+bunga bangkai baunya menyengat
+kekayaan alam yang hampir punah
+bekerja dengan dilandasi semangat
+membuat diri tak mudah lelah
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, an]
+Anak rusa berlari ringan
+Masuk rimba mencari makan
+Jika gagal jangan hentikan
+Terus berusaha capai impian
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ma, ya]
+Pergi ke taman memetik delima
+Delima merah manis rasanya
+Ilmu dan adab harus bersama
+Agar hidup penuh maknanya
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ja, il]
+beli besi beli baja
+siapa yang tau burung ababil
+kredit mobil tuk berangkat kerja
+berangkat kerja tuk kredit mobil
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ti, ri]
+makan pecel pakai daun jati
+tersedak melihat sapi lari
+jangan suka sengsarakan hati
+kalau tak mau sengsara diri
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, ya]
+ayam jantan jangan dipanggang
+kalo dipanggang banyak minyaknya
+cowok ganteng jangan dipandang
+kalo dipandang banyak gayanya
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: am, ng]
+rentak putera pendekar islam
+keris kecil lincah melayang
+hati gembira terhapus kelam
+jiwa mulia semua pun sayang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, ah]
+Pohon kelapa tinggi menjulang
+Buahnya muda jatuh ke tanah
+Jika hidup ingin cemerlang
+Berani gagal jangan menyerah
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, an]
+putus tali dengan gunting
+kain di sudut tolong ambilkan
+pendidikan sangat penting
+jangan pernah diabaikan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, ut]
+Pergi ke pantai membawa jaring
+Jaring ditebar ke tengah laut
+Jika ingin langkah tak saring
+Berhati-hati dalam menyebut
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, ut]
+jalan-jalan ke kota sumedang
+ada kambing makan rumput
+anak-anak pada senang
+melihat banci bergoyang dangdut
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, ga]
+pergi ke pasar membeli ketan
+tidak lupa santan juga
+mari kita jaga kesehatan
+karena itu sangat berharga
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ar, ng]
+kita bermain sambil belajar
+jangan lakukan yang dilarang
+bersedih itu hal yang wajar
+menyerah itu hal yang pantang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ah, ah]
+jangan kalah lari lawan cheetah
+jika tidak ingin dianggap lemah
+jika kau tak mau sekolah
+orang tua pasti kan gundah
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ih, uh]
+awan cerah berwarna putih
+selepas hujan airnya keruh
+nikmati akhir pekanmu kasih
+meski kita kan berpisah jauh
+<|end|>
+
+<|start|> [TEMA: bijak] [RIMA: an, ng]
+Pagi-pagi baca koran
+Semoga saja kamu kurang
+Jangan lupa baca Al-Quran
+Semoga saja harimu terang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, ap]
+musik klasik enak didengarkan
+makan sayur ditambah ikan kakap
+berbuat baik dengan tindakan
+adalah syukur yang tidak terucap
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, ti]
+disana gunung di sini gunung
+tengah tengahnya pohonnya jati
+betapa hatiku tengah terbingung
+menunggunya jawaban sijantung hati
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ca, na]
+cerita wayang gatot kaca
+hatinya sedih sangat merana
+sedikit bicara banyak membaca
+itulah tanda insan bijaksana
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: pa, as]
+buat apa panen kelapa
+kalau belum tumbuh tunas
+tak usah dulu membeli vespa
+cicilan kompor saja belum lunas
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, an]
+jalan-jalan ke tanjung pinang
+pergi ke pasar membeli ikan
+ayah pulang hatiku senang
+oleh-oleh ada di tangan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: wa, an]
+kain tenun dari sumbawa
+kain batik dari pekalongan
+jika ingin jadi mahasiswa
+sekolah dasar jangan diabaikan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: pa, ir]
+beli nanas bonus kelapa
+di jalan melihat anak pak bokir
+aku bingung monyet apa
+yang sukanya mondar-mandir
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ih, ji]
+pergi ke halaman mencari selasih
+masuk ke rumah membawa daun suji
+bersiaplah dan mandi hingga bersih
+kemudian berangkatlah mengaji
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: tu, tu]
+anak anak bermain batu
+batu dilempar satu persatu
+berbadan lurus matanya satu
+ekornya tajam apakah itu?
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ak, ah]
+tim sepakbola sangat kompak
+raih kemenangan dengan meriah
+siapa yang bikin kolak?
+tolong dong kirim ke rumah
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: tu, an]
+burung merpati membawa batu
+dijatuhkan di perapian
+jika kamu mengerjakan sesuatu
+fokuslah untuk mencapai tujuan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: at, an]
+satu dua tiga dan empat
+lima enam tujuh delapan
+tuntutlah ilmu sampai dapat
+sudah tua menyesal jangan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: mu, ga]
+yang baru nawarin jamu
+ternyata masih tetangga
+karena senyum manismu
+hatiku kini berbungabunga
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ah, ah]
+Burung kecil terbang rendah
+Hinggap sebentar di tanah
+Jika ingin hidup indah
+Jauhi fitnah dan amarah
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: gi, ng]
+lebah tidak bersarang lagi
+habis pulang ke gunung ledang
+sembah tidak dipanjangkan lagi
+perut lapar hari dah petang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: al, ra]
+punya sahabat tukang khayal
+hidupnya ternyata sengsara
+dasar sial tambah sial
+hujan turun ga kirakira
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ab, gi]
+pasti datang hari hisab
+ruh mukmin harumnya wangi
+jadilah suami yang bertanggung jawab
+memimpin mengayomi dan melindungi
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: mu, an]
+ada ulat di kaca mobilmu
+jangan lupa disingkirkan
+sayang jagalah kesehatanmu
+jangan sampai kamu telat sarapan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: sa, sa]
+Rambut biru dibungkus kasa
+Seniman datang bawa sketsa
+Bersujud selalu pada Sang Kuasa
+Mohon ampunan segala dosa
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ai, ih]
+kalau busut ranai-ranai
+manakah bulu menjadi sirih
+kalau kusut tidak selesai
+manakah keruh menjadi jernih
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: lu, an]
+berakit-rakit ke hulu
+berenang-renang ketepian
+ayo berangkat ke penghulu
+daripada cuma temenan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ah, ah]
+gunung uhud batu berbongkah
+tak jauh dari kota mekah
+jadilah hamba ahli sedekah
+agar harta tambah berkah
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: mu, an]
+anak kucing namanya mumu
+sangat lucu ketika berkeliaran
+berilah salam kepada gurumu
+jadilah engkau murid teladan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ak, ya]
+kemumu di dalam semak
+jatuh melayang selaranya
+meski ilmu setinggi tegak
+tiada sembahyang apa gunanya
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ul, am]
+anak ular mati terpukul
+anak tapah selam menyelam
+yang benar pastilah timbul
+yang salah pasti akan tenggelam
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, an]
+Ke restoran membeli makan
+Berangkat bersama dengan majikan
+Perintah Tuhan ayo kerjakan
+Larangan Tuhan mohon elakkan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: uh, ya]
+tugal padi jangan bertangguh
+kunyit kebun siapa galinya
+kalau tuan cerdik sungguh
+langit tergantung mana talinya?
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: du, tu]
+saat berada di posyandu
+tetiba hidung terasa buntu
+kamulah yang aku rindu
+di setiap saat dan setiap waktu
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ku, ar]
+berinai orang berhitam kuku
+mandi disiram si air mawar
+tuan seorang biji mataku
+racun diminum jadi penawar
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ek, ka]
+baju merah matanya melek
+si baju hijau minum cuka
+biarlah muka gue jelek
+yang penting banyak yang suka
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ku, mu]
+baru ngembaliin buku
+disuruh menemui ibumu
+jagalah hatimu untukku
+karena aku sungguh mencintaimu
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: as, li]
+udah ramadhan ke tiga belas
+kamu belum puasa sama sekali
+masa lalu yang masih membekas
+jangan diingat ingat kembali
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: at, at]
+sembilu tajam tuk menyayat
+daun kepala dibuat ketupat
+jauhi segala maksiat
+ilmu masuk dengan cepat
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, ri]
+Pucuk delima di hujung taman
+Mekar sekuntum disapa mentari
+Jika amanah dijunjung iman
+Sejahtera hidup meniti hari
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: da, um]
+patung patih gajah mada
+lagi di bangun di depan museum
+niat menikah sudah ada
+tapi calonnya yang belum
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, ng]
+padi merekah di tengah ladang
+bangunan megah di buat tukang
+cantik paras sedap dipandang
+ingin hati menyapa sayang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ah, ti]
+ke cimanggis membeli kopiah
+kopiah indah kan kau dapati
+begitu banyak gadis yang singgah
+hanya janda yang memikat hati
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, an]
+ke warung membeli rambutan
+rambutan dipegang di tangan kanan
+sepercik harapan aku tuturkan
+untukmu teman di malam pergantian
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ti, ah]
+tidak ada semut yang mati
+karena terinjak kaki gajah
+tidak tahu kapan pasti
+seorang jomblo akan menikah
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ar, an]
+cempedak di luar pagar
+tarik galah tolong jolokkan
+saya budak baru belajar
+kalau salah tolong tunjukkan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ya, ri]
+Bunga nusa indah kelopaknya
+Disiram pagi sebelum mentari
+Jika hati lurus jalannya
+Takkan takut hadapi hari
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ar, na]
+berburu rusa ke padang datar
+tumbuh sebatang pohon kina
+masa kecil rajin belajar
+masa tua kan bijaksana
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ru, ku]
+sup buntut dimakan kangguru
+mengetuk pintu karena dipaku
+ku tuntut ilmu dari guru
+untuk ku dapat cita-citaku
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, ar]
+di pasar malam bertemu mantan
+mantan ditemani seorang pacar
+salam pertemuan hai teman-teman
+saya disini hendak belajar
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ah, ng]
+pagipagi berangkat sekolah
+bawa sarapan telornya gosong
+janji politik sampai tumpahruah
+setelah terpilih aksinya kosong
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ah, ra]
+terbang burung amat rendah
+terbangnya dia ke utara
+sawah itu amat indah
+terhampar bagai selendang sutra
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, ng]
+ketika hujan mulai menghadang
+segeralah ambil payung
+tak sabar rasanya ingin pulang
+memeluk ibu yang ada di kampung
+<|end|>
+
+<|start|> [TEMA: alam] [RIMA: an, ar]
+Koar-koar masalah tunjangan
+Sampai-sampai semua tidak sabar
+Coba lihat masalah lingkungan
+Yang rusak karena tercemar
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, ti]
+Berkelana jauh ke seberang
+Membawa harap dalam hati
+Walau jalan penuh rintang
+Tetap maju jangan berhenti
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: at, ik]
+hari lebaran hari yang hangat
+penuh senyuman di hari baik
+semangat banget makan ketupat
+hati-hati nanti kolesterol naik
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ak, ak]
+pohon pisang berbuah salak
+Tumbuhnya di semak-semak
+Orang beriman punyai akhlak
+Suka membantu pada yang berhak
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: bi, ti]
+daun talas daun ubi
+petik satu bunga melati
+siapa yang mengaku cinta nabi
+tentu perintahnya ditaati
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, ya]
+kalau nona pergi ke lampung
+biar saya yang bawakan barangnya
+kalau nona ingin jadi burung
+biar saya yang jadi ranting kayunya
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ut, ti]
+besar langit di tepi busut
+besar gak muat di dalam peti
+besar hajat kami menjemput
+besar niat didalam hati
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ti, an]
+putihputih bunga melati
+harus semerbak menghiasi taman
+mari bergembira di dalam hati
+menyambut bulan penuh ampunan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: in, ah]
+jika gelap nyalakan lilin
+beli lilin warnanya merah
+sekolah itu harus disiplin
+agar masa depan lebih cerah
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ah, ar]
+anak nelayan bajunya basah
+setelah pulang dari berlayar
+meski raga telah terpisah
+rinduku disini tetap berkobar
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ek, ek]
+minum kopi biar mata melek
+jalan kaki daripada ngojek
+wahai kita sesama orang jelek
+dilarang untuk saling mengejek
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ak, ya]
+makanlah buah disaat masak
+karena lezat rasa buahnya
+pikirlah dulu jika bertindak
+agar tak sesal nanti akhirnya
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ar, ng]
+Burung jalak hinggap di pagar
+Pagar bambu di tepi ladang
+Jika ingin hidupmu segar
+Jauhi malas dan suka menentang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: pi, an]
+tukang becak memakai topi
+berwarna hijau di pinggir jalan
+hadirmu tak seindah mimpi
+saat kau masih dalam khayalan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: os, ar]
+ke medan untuk beli ulos
+membeli ulos yang penuh gambar
+rajinlah sekolah jangan bolos
+agar kelak jadi anak pintar
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: am, ng]
+rentak putera pendekar islam
+keris kecil lincah melayang
+hati gembira terhapus kelam
+jiwa mulia semua pun sayang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ta, mu]
+ibu kota ada di jakarta
+kota sibuk kedatangan tamu
+ku tak bisa hidup tanpa cinta
+cinta suciku hanyalah kamu
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, an]
+sakit sungguh tidak kepalang
+jika pisau mengenai badan
+materi jangan jadikan penghalang
+dalam menimba ilmu pengetahuan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: am, at]
+sungguh lezat kue talam
+tutupi jangan tersentuh lalat
+sikat gigi pagi dan malam
+supaya bersih selalu sehat
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ih, ng]
+ombak laut menyanyi lirih
+angin asin membawa tenang
+alam menyapa jiwa yangletih
+dalam pelukan luas dan lapang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: at, at]
+pedih tangan karena tersayat
+keluar darah luka diikat
+jauhi olehmu segala maksiat
+agar ilmu cepat didapat
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ih, an]
+burung merpati warnanya putih
+sedang hinggap di atas dahan
+hati ini tak pernah letih
+meski tetap kamu abaikan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, ng]
+habis manis sepah dibuang
+habis gelap terbitlah terang
+habis uang jadilah ngutang
+tak sanggup bayar motor melayang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ik, ai]
+Pergi ke sawah saat mentari naik
+Padi hijau tampak melambai
+Jika ingin hasil yang baik
+Usaha keras janganlah lalai
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: mu, ek]
+kata teman sebangkumu
+kemarin tugasnya kamu robek
+sebenarnya aku suka kamu
+sayangnya kamu itu terlalu cuek
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, el]
+buka puasa pakai bakwan
+bakwan selesai lanjut perkedel
+selain terima ucapan lebaran
+aku juga terima salam tempel
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, an]
+burung nuri terbang melayang
+hinggap sebentar di pucuk dahan
+selamat pagi untuk mu sayang
+semoga pagi penuh keberkahan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: na, la]
+jika tuan pakai lencana
+pakailah songkok di atas kepala
+jika tuan memang bijaksana
+binatang apakah tak berkepala
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ah, ng]
+hatihati kalau meludah
+jangan sampai kena sepatu orang
+minta maaf itu memang mudah
+tapi tak guna jika masih diulang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: al, ng]
+makan ketan satu kepal
+tiada daging tinggal tulang
+jika membaca untuk menghafal
+baca berkalikali berulangulang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ih, na]
+Baik-baik menanam selasih
+Jangan menimpa sipohon sena
+Baik-baik memilih kekasih
+Jangan sampai badan merana
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, an]
+jauh rezeki tak perlu dipikirkan
+bekerja dan berdoa pada tuhan
+apabila pendidikan disingkirkan
+bersiap hadapi kesulitan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: uk, uk]
+terbang tinggi burung pelatuk
+sambil memakan ikan kutuk
+bahagianya dengarkan atuk
+berdongeng sampai terbatuk batuk
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: as, ri]
+macan tutul binatang buas
+hidup di rimba tak sendiri
+ilmu allah sangatlah luas
+tak akan habis dipelajari
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, ti]
+Ke hutan bambu mencari rebung
+Rebung muda dipetik hati-hati
+Jika ingin hidup beruntung
+Rajin usaha sepenuh hati
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: os, ai]
+anak kecil bermuka polos
+disuruh mengambil daun serai
+jangan ajak aku membolos
+dorong aku jadi anak pandai
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: os, ya]
+suka baju berwarna polos
+meski polos murah harganya
+anak malas suka membolos
+nanti tau sendiri akibatnya
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, ng]
+kelapa berjajar di lereng gunung
+buahnya lebat tidak terhitung
+berjasa besar sebanding gunung
+anak yang taat pasti beruntung
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ti, an]
+Ke hutan mencari kayu jati
+Kayu diikat dengan tali rotan
+Jaga lisan dan jaga hati
+Agar hidup penuh kebaikan
+<|end|>
+
+<|start|> [TEMA: cinta] [RIMA: at, at]
+Hari jumat hujan lebat,
+awan mendung hitam pekat,
+rayuanmu sungguh hebat,
+mampu membuatku terpikat.
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: na, ku]
+ibu pergi entah kemana
+duduk sendiri di samping paku
+hai juga kau yang disana
+indah puspita itu namaku
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, in]
+dari kapas dijadikan benang
+dari benang menjadi kain
+sudah lepas jangan dikenang
+lebih baik cari yang lain
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ak, an]
+anak bayi sedang merangkak
+ibu tertawa dalam keceriaan
+pimpin dan berpikir dengan bijak
+agar engkau menjadi suri tauladan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ta, ya]
+beli obat sakit mata
+disuruh nganter ke rumahnya
+kalau benar benar cinta
+terimalah aku apa adanya
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: uk, ng]
+terasa gatal langsung digaruk
+setelah digaruk gatal berkurang
+saat insan sedang terpuruk
+jangan menyerah tetap berjuang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: mi, it]
+belajar anak di atas jerami
+lalu bermain jungkat jungkit
+sayangi yang ada di bumi
+kan disayang oleh yang di langit
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ok, an]
+anak ayam belajar berkokok
+suaranya meniru ayam jantan
+masih kecil janganlah merokok
+nanti besar jadi penyakitan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: at, an]
+ambil getah jadikan perekat
+untuk mengelem layangan
+jika kau ingin hidup selamat
+taat selalu perintah tuhan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ak, al]
+beli kentang dibuat rujak
+biar mantap ditambah sambal
+tidur terlentang tiada nyenyak
+tidur tengkurap ada yang mengganjal
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ra, ja]
+ayo pergi ke halmahera
+negerinya para raja
+agar hidup tidak sengsara
+aku rela berkorban ikhlas bekerja
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ga, ga]
+kuda pacu sedang berlaga
+badan kecil kuat tenaga
+jangan lupa berolahraga
+agar sehat jiwa dan raga
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ar, ai]
+pergi jalanjalan kepasar
+pergi lagi ke tempat gadai
+mari kita rajin belajar
+rajin belajar supaya pandai
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ih, ar]
+wakil raja disebut patih
+melihat pesawat di dalam hanggar
+perbanyaklah minum air putih
+agar tubuh selalu bugar
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, al]
+karena hama ulat dan belalang
+panen para petani jadi gagal
+cintaku ini takkan pernah hilang
+meski nanti terpisahkan oleh ajal
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ik, ah]
+hujan turun rintikrintik
+duduk berdua di teras rumah
+ingin punya cewek cantik
+syaratnya rumah dan mobil mewah
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ur, am]
+Pagi hari makan bubur
+Bubur hangat diberi ayam
+Katanya ingin hidup teratur
+Bangun siang tiap malam
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ta, sa]
+pergi ke pasar bersama dita
+pulangnya malah ketemu sasa
+tak usah menangis karena cinta
+tapi menangislah karena dosa
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ak, ak]
+uang saku ditaruh kotak
+kotak lama berukir anak katak
+selama jantungku masih berdetak
+cintaku tak akan luluh lantak
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: at, at]
+mari petik buah tomat
+buah tomat mengandung serat
+lebih baik hidup terhormat
+terhormat nanti di akhirat
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ma, ng]
+suara burung indah berirama
+suara anjing gonggong menggonggong
+saling memberi saling menerima
+saling bantu tolong menolong
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: is, is]
+jalan-jalan ke kota prancis
+banyak rumah berbaris-baris
+biar mati diujung keris
+asal dapat dinda yang manis
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, ng]
+bunga matahari warnanya kuning
+mekar indah dikala siang
+jangan ragu aku berpaling
+paras indahmu selalu terbayang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, ng]
+Pergi ke sungai mencuci piring
+Air jernih mengalir tenang
+Jika hati sering merasa miring
+Ingat sabar agar tetap seimbang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ar, ur]
+main gitar memetik senar
+senar di beli dari bang igur
+kalau fikar ingin pintar
+jadilah selalu anak yang jujur
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, na]
+dalam diam hamba merenung
+menekur diri dosa hina
+tak salah bunda mengandung
+hanya diri sesat terlena
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: tu, mu]
+bukit tinggi jalan berbatu
+di ujung jalan tempat bertemu
+kepada ayah selalu membantu
+agar bahagia jalan hidupmu
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, sa]
+laut luas tempat berenang
+hutan hijau tempat si rusa
+bermain layangan hatiku senang
+bersama tiupan angin desa
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ai, ah]
+padi menguning saatnya dituai
+pak mamat yang punya sawah
+jika ingin hidup damai
+jangan lupa kerjakan ibadah
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ar, ar]
+kancil lari tidak terkejar
+rusa lari sambil berputar
+sekarang kita mulai belajar
+supaya jadi anak yang pintar
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, ja]
+jalan sore naik delman
+tak terasa sudah senja
+banyak teman mengaku teman
+jika dikira ada perlunya saja
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ti, ai]
+kalau emas di dalam peti
+jangan taurh di tempat ramai
+kalau anak pandai berbakti
+hidupnya bahagia hatinya damai
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: da, ng]
+adik tertawa saat bercanda
+saat tertawa giginya ompong
+anak manis kesayangan bunda
+jangan nakal tak boleh bohong
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: at, al]
+gadis manis kuning langsat
+memintal kain membuat bantal
+hidup di dunia hanya sesaat
+gunakan waktu untuk beramal
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ya, in]
+besok akan ke surabaya
+rencana mau ke bonbin
+sungguh aku masih tak percaya
+kamu minta aku halalin
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ah, ah]
+benteng kuat tak akan goyah
+diterpa angin tiada lelah
+siapa yang menyayangi ayah
+itulah tanda putri yang sholehah
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ja, ji]
+yang baru pulang belanja
+baru aja pinjem gergaji
+udah deh terserah kamu aja
+aku udah males ngedengerin janji
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ya, ng]
+Anak angsa putih warnanya
+Berenang indah di air tenang
+Jika hati bersih niatnya
+Hidup terasa ringan dan lapang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ni, in]
+teman yang di kintamani
+seharian ini nggak ngabarin
+kalau lagi kangen gini
+jadi nggak mood ngapa-ngapain
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ah, gi]
+Buah langsat kuning mencelah
+Senduduk tidak berbunga lagi
+Sudah dapat gading bertuah
+Tanduk tidak berguna lagi
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: si, ik]
+di medsos dan televisi
+lagi pada ngomongin politik
+tak hanya punya bodi seksi
+kamu juga baik dan cantik
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: gi, at]
+ramai orang menggali perigi
+ambil buluh diikat kuat
+ilmu dicari tidaklah merugi
+jadi bekal di dunia dan akhirat
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ut, sa]
+sungguh indah dataran gambut
+angin menyusur di pinggir desa
+alhamdulillah kita menyebut
+tanda bersyukur kepada yang esa
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: am, an]
+kayu jati hendak diketam
+kayu jati banyak di hutan
+sungguh enak berkulit hitam
+kalau malam tidak keliatan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: as, ah]
+lebar lebar daun talas
+tersiram air tidak basah
+jadi anak jangan malas
+kalau besar hidupnya susah
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: at, ah]
+Pohon kelat berdaun lebat
+Buahnya kecil berwarna merah
+Jika hidup ingin selamat
+Jangan dekat pada yang salah
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ak, ya]
+rumput-rumput di pinggir semak
+jatuh sehelai jadi selarasnya
+meski ilmu setinggi tegak
+tidak ibadah apa gunanya
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: bi, ih]
+pergi ke ladang tanam ubi
+berceceran biji dan benih
+mengikut diri ke jalan nabi
+ridha allah kita raih
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, at]
+kamu kalau lebaran
+tukang ngabisin ketupat
+maaf ga bisa nemenin lamaran
+aku mau menunaikan sholat
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ku, ri]
+setelah bagibagi buku
+dengerin lagu campursari
+bukannya aku nggak laku
+aku emang masih pengen sendiri
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ma, ma]
+Tangkai kina berjajar lima
+Kolam kecil tempat aglonema
+Walaupun kita berbeda agama
+Saling menghormati lebih Utama
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ai, os]
+pulang sekolah naik bajai
+sampai rumah lupa ongkos
+jika ingin impian tercapai
+rajin kuliah jangan suka bolos
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ar, as]
+ibu dan ayah pergi ke pasar
+membeli buah dan juga beras
+di sekolah rajinlah belajar
+agar dewasa jadi orang cerdas
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, am]
+sebatang lilin habis perlahan
+apinya mati suasana kelam
+puasa ramadhan itu rukun iman
+perintah wajib untuk umat islam
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ah, ah]
+hujan reda langitnya cerah
+pelangi muncul alangkah indah
+jangan menyerah karena lelah
+karena impianmu amatlah indah
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: at, at]
+sungguh beragam adat istiadat
+itulah tanda negeri yang hebat
+meski hidup kan selalu berat
+semua ringan bersama sahabat
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ah, li]
+beras hitam beras merah
+jatuh sekarung di tepi kali
+kulit hitam jangan marah
+karena senyummu manis sekali
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: tu, ya]
+pergi ke kali mencari batu
+batu kali siapa yang punya
+jika menginginkan sesuatu
+berjuanglah untuk mendapatkannya
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ur, mu]
+ketika mengambil janur
+mereka meneriaki temanmu
+kalau boleh aku jujur
+aku tuh masih suka kangen ke kamu
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ik, uh]
+untuk apa bercadar cantik
+berubah warna tiap dibasuh
+untuk apa berpacar cantik
+kalau dirinya selalu selingkuh
+<|end|>
+
+<|start|> [TEMA: pendidikan] [RIMA: is, is]
+Tinta hitam untuk menulis
+Pensil warna untuk meluis
+Ilmu itu tak kan pernah habis
+Turun temurun keahli waris
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, sa]
+banyak bulan perkara bulan
+tidak semulia bulan puasa
+banyak tuhan perkara tuhan
+tidak semulia tuhan yang esa
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, us]
+siang hari panen rambutan
+rambutan masukkan dalam kardus
+atas semua salah dan kekhilafan
+kupinta maaf dengan tulus
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, an]
+bawa minuman pake nampan
+nulis di sekolah pake papan
+walaupun wajahku tak tampan
+tapi cintaku yang paling tampan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, in]
+makan sambal dengan lalapan
+beli baju buat salin
+listrik mati gelapgelapan
+bapaknya ribut cari lilin
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ar, an]
+lampu jalan terang berpijar
+lampu berdiri di atas papan
+anak sekolah harus belajar
+untuk meraih masa depan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, ai]
+seekor semut jalan perlahan
+takut akan dilukai
+biar bajuku ini murahan
+yang penting masih bisa dipakai
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ik, an]
+di tv lagi musim politik
+di dunia nyata lagi musim hujan
+percuma punya wajah cantik
+kalau hati kamu kayak setan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ni, an]
+harum sekali mangga kweni
+sayang hanya untuk titipan
+belajar tekun di hari ini
+akan bahagia di masa depan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: du, mu]
+sungguh manis rasanya madu
+sebagai penawar pahitnya jamu
+sungguh berat rasanya rindu
+hingga nenek-nenek ku kira kamu
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ah, an]
+buah manggis masih mentah
+jangan petik dengan tangan
+jangan suka bolos sekolah
+nanti kamu tertinggal pelajaran
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ka, ka]
+Bunga melati, bunga asoka
+Bentuknya indah penuh estetika
+Bila menjadi anak durhaka
+Kelak matinya masuk neraka
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, ta]
+bukan salah buah kedundung
+buahnya rusak buruk mata
+bukan salah bunda mengandung
+salah awak buruk pinta
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, an]
+bumi penuh dengan hewan
+langit dihiasi awan gemawan
+jika engkau insan dermawan
+banyak teman banyak kawan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: is, bu]
+baca pantun lucu romantis
+pulangnya pamer ke ibu
+hai kamu adik lucu dan manis
+mari kencan di hari rabu
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ti, me]
+kursi kuat dari kayu jati
+membelinya di sukarame
+jika kau perempuan sejati
+alis alis apa yang bikin rame
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ah, ya]
+kucing terjatuh keluar darah
+diobati sembuh lukanya
+janganlah adik mudah menyerah
+ketekunan mengalahkan segalanya
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: on, au]
+ada simpanse dan babon
+berenang di air payau
+mari kita tanam pohon
+alam sekitar terlihat hijau
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, ng]
+Burung camar terbang melayang
+Hinggap sebentar di batu karang
+Jika hidup banyak rintangan datang
+Hadapi dengan sabar dan tenang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: lu, tu]
+ambil bambu buat sembilu
+terbang debu dari cerutu
+namamu kusebut selalu
+dalam doa setiap waktu
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, ng]
+ikan patin jadi masakan
+masaknya di kota palembang
+kurus badan bukan kurang makan
+kurus memikirkan kamu seorang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ta, ka]
+Jalan-jalan naik kereta
+Hendak menuju negeri Melaka
+Ibu bapa menjaga kita
+Mengapa perlu menghormati mereka
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: au, ng]
+Pergi berkemah di tepi danau
+Api unggun menyala terang
+Jika hidup terasa kacau
+Ingat Tuhan hati pun tenang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: uh, ar]
+sampan kecil kita berlabuh
+memuat kelapa bawa ke pasar
+sejak kecil kita diasuh
+jasa ibu bapak sangatlah besar
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: gi, uh]
+tabur bihun tepi perigi
+terbang merpati lalu melabuh
+bulan dan tahun berlalu pergi
+genggamlah sejati terus berteguh
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ja, sa]
+bunga cantik namanya seroja
+hewan cantik namanya rusa
+jalan-jalan ke mana saja
+pergi ke kota atau ke desa
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, ak]
+kakak makan durian medan
+durian loncat seperti katak
+kalau tak pandai berdandan
+lamalama kayak kuntilanak
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ih, an]
+Burung dara putih bersih
+Terbang rendah di halaman
+Jika ingin hidup terpilih
+Bangun sikap penuh ketulusan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ar, an]
+makan martabak dengan acar
+perut kenyang tambah tekwan
+ilmu didapat dengan belajar
+kunci pembuka pengetahuan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, pa]
+disini gunung disana gunung
+ditengahtengah pohon kelapa
+janganlah adik merasa canggung
+hanya karena belum berjumpa
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: al, ar]
+hari lebaran bulan syawal
+mengecat rumah juga pagar
+pergi tidur lebih awal
+pagi hari badannya segar
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: li, an]
+pulang dari pulau bali
+apa yang paling asyik dilakukan
+cintamu itu seperti tali
+yang mengikatku hingga kematian
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ah, am]
+berbelanja ke bu satinah
+buka pagi sampai malam
+janganlah suka memfitnah
+fitnah itu amat kejam
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, at]
+kalau tuan pergi ke tanjung
+belikan sahaya pisau lipat
+kalau tuan menjadi burung
+sahaya menjadi benang pengikat
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: gi, ri]
+pergi ke dokter periksa gigi
+dengan wajah berseri seri
+jangan malas bangun pagi
+agar semangat menjalani hari
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ih, gi]
+tolong hentikan berselisih
+hanya karena sikat gigi
+untuk apa harus bersedih
+bila ia sudah tak cinta lagi
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: wa, an]
+kain tenun dari sumbawa
+kain batik dari pekalongan
+kalau ingin jadi mahasiswa
+sekolah dasar jangan diabaikan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: as, ju]
+air jeruk dalam kulkas
+makan roti dengan keju
+niatlah belajar dengan ikhlas
+hanya allah yang dituju
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ga, ra]
+emas perak tersimpan di rongga
+banyak yang suka mutiara
+berbuat baik kepada tetangga
+niscaya diri banyak saudara
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: il, is]
+jual betik dengan kandil
+kandil buatan orang inggeris
+melihat buaya menyandang bedil
+dan kerbau tegak berbaris
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: et, gi]
+jalanan terpantau macet
+sejak banjir tadi pagi
+kamu emang kriteriaku banget
+udah cantik pinter ngaji lagi
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: en, ah]
+kemarin ada di baturaden
+sekarang sudah ada di rumah
+aku sekarang lagi kangen
+moga tidurku ntar mimpi indah
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, an]
+menatap langit hingga heran
+buah manis mudah ditelan
+siapa yang berpaling dari quran
+akan tersesat di tengah jalan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ni, an]
+harum sekali mangga kweni
+sayang hanya untuk titipan
+belajar tekun di hari ini
+akan bahagia di masa depan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, an]
+pergi kerja membawa sarapan
+berangkat langsung menuju pelabuhan
+kepada tuhan kita mohonkan
+agar cepat dipertemukan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: li, an]
+anak kecil mandi di kali
+sembari kembawa kain cucian
+kepada tuhan tempat kembali
+jangan lupa mohon ampunan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ti, ri]
+cerana kesumba indah melati
+cantik tersemat dambaan puteri
+ilmu ditimba sepenuh hati
+kekuatan umat minda bestari
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ir, ng]
+naik kereta turun di gambir
+main di kota lupa pulang
+banyak kota alami banjir
+karena pohon banyak ditebang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: at, am]
+pagi-pagi pergi ke pasar yang dekat
+di pasar membeli ayam
+kalau siang tak bisa melihat
+kalau malam matanya tajam?
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: al, ar]
+betik masak lebat di pangkal
+penuh kapal bawa belayar
+baik budi panjang akal
+hormat guru tekun belajar
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, an]
+Burung elang terbang ke awan
+Sayap kuat penuh ketegaran
+Jangan takut dalam tantangan
+Karena berani awal kemenangan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ur, ur]
+Dari Krukut ke Cianjur
+Makan duku sambil berkumur
+Jangan takut berkata jujur
+Kelak hidup menjadi makmur
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ah, la]
+beli jeruk untuk ayah
+ibu minta gula-gula
+anak muda banyak ibadah
+jauhi dosa tambah pahala
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ah, ah]
+Bunga ungu tumbuhnya rendah
+Sangat menarik bagi para lebah
+Jangan mencampur amal ibadah
+Dengan musyrik ataupun bid’ah
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ku, mu]
+saat ada di toko buku
+mereka membully adikmu
+menikahlah dengan aku
+aku siap membahagiakanmu
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ta, gi]
+berlari-lari keliling kota
+jangan lupa beli minyak wangi
+saat sedih bertetesan air mata
+ada allah yang mendampingi
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: al, ng]
+panjang buku dua jengkal
+putih putih warna tulang
+dunia ini hanyalah bekal
+ke akhirat pula kita pulang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, an]
+dulu hobinya travelling
+sekarang jadi cowok rumahan
+aku takkan pernah berpaling
+cintaku ini bukan cinta murahan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ih, ur]
+guru fisika berbaju putih
+menulis materi dengan kapur
+rokok dikasih uang di kasih
+sudah dikasih malah kabur
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ar, us]
+jika kamu hendak melamar
+jangan banyak tulis dihapus
+jika siswa rajin belajar
+sudah tentu pasti lulus
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, ng]
+bunga mawar enak dipandang
+dihinggapi satu dua belalang
+bila dika suka berenang
+apa binatang seperti bintang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ru, mu]
+hari raya pakai baju baru
+banyak datang para tamu
+dengarkan apa perintah guru
+supaya pandai jadi milikmu
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, ng]
+aku disini kau di seberang
+terpisah laut yang penuh karang
+walau jauh bisa berbincang
+hati yang sedih menjadi riang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ar, ta]
+jati jajar jalannya berputar
+ujung jalan menuju kota
+rajin belajar menjadi pintar
+kalau malas bodohlah kita
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: gi, ti]
+mengambil air di perigi
+air jernih banyak diminati
+lebih baik aku pergi
+dari kehidupan yang tidak pasti
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: at, at]
+merah warna buah tomat
+membuat sayur terasa nikmat
+beta ingin mencari sahabat
+agar hidup punya manfaat
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ah, uh]
+bukan lebah sembarang lebah
+lebah bersarang dibuku buluh
+bukan sembah sembarang sembah
+sembah bersarang jari sepuluh
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: mu, in]
+bahannya belum di ramu
+menunggu pemilik pabrik lilin
+pengennya sih di halalin kamu
+tapi kamunya pilih yang lain
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ar, ng]
+pohon jati tumbuh berjajar
+tempat pak tani mencari kentang
+dunia bolehlah dikejar
+jangan sampai dikejar penagih hutang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: uk, ng]
+pagi sarapan nasi uduk
+siangnya makan nasi padang
+itu kakak yang sedang duduk
+manis sekali untuk dipandang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ga, ya]
+indramayu kota mangga
+mangga matang enak rasanya
+alam sekitar kotor tak terjaga
+hidup terancam banyak bahaya
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, an]
+anak laki laki tampan
+anak laki laki tidak arogan
+jadi anak anak harus sopan
+disayang guru dicintai kawan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ah, du]
+pulang dari wisata sejarah
+nyari makan depan posyandu
+selama covid mewabah
+hari hariku terpenjara rindu
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ul, ah]
+Pergi ke sawah membawa cangkul
+Cangkul digunakan menggembur tanah
+Jika hidup ingin terasa betul
+Jangan tinggalkan kewajiban yang sah
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ya, sa]
+Bunga mawar harum baunya
+Mekar merah di taman desa
+Jika hati ikhlas adanya
+Damai hidup sepanjang masa
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: il, at]
+di hutan lebat ada seekor kancil
+sangat gesit saat lari dan melompat
+telah bersekolah sedari kecil
+ketika dewasa menjadi hebat
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: sa, ng]
+kueni asam jika dirasa
+kapas ringan terbang melayang
+inilah satu peribahasa
+tak kenal maka tak sayang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: al, ar]
+hari raya di bulan syawal
+burung pipit hinggap di pagar
+pergi tidur lebih awal
+bangun pagi badannya segar
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: un, an]
+Ranting sena berbalut embun
+Harum cempaka menyeri halaman
+Jika hidup berteraskan santun
+Tinggi darjat di mata zaman
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: at, tu]
+Anak haruan berenang cepat
+Bersembunyi di celah batu
+Jika ingin hidup selamat
+Pilih jalan yang tentu-tentu
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: da, ya]
+jalan-jalan ke belanda
+foto selfie sambil bergaya
+mendengar pendapatan adinda
+sungguh senang hati saya
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: os, ar]
+ke kota pekanbaru membeli ulos
+beli ulos penuh bergambar
+anak sekolah jangan membolos
+jika membolos tak jadi pintar
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ya, an]
+hari yang panas amat teriknya
+tanah merah debu beterbangan
+anak malas buruk tabiatnya
+tidak malu diri ketinggalan
+<|end|>
+
+<|start|> [TEMA: jenaka] [RIMA: an, an]
+Nemu gelang di pekarangan
+Tapi gelang sudah karatan
+Siapa nyampah sembarangan
+Pasti pacarnya orang utan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ar, ar]
+sepah tebu rasanya hambar
+bila dibakar pasti berkobar
+jika engkau slalu bersabar
+ilmu kamu pasti kan lebar
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: gu, mu]
+ketika asyik dengar lagu
+paman minta dibeliin jamu
+mumpung lagi malam minggu
+aku ntar pengen mimpiin kamu
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: un, mu]
+brangkasnya dibawa turun
+dipindah dari ruang tamu
+malam-malam aku terbangun
+mungkin ini efek kangen kamu
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ta, ra]
+begitu indah alam semesta
+lebih indah dari mutiara
+apakah tanda hatinya cinta
+penuh kasih bersikap mesra
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ta, at]
+ibukota negara di jakarta
+bandung ibukota jawa barat
+tidak ada artinya kaya harta
+jika tidak untung akhirat
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ap, na]
+tulis surat di dalam gelap
+ayatnya banyak yang tidak kena
+jagalah diri jangan tersilap
+jikalau silap awak yang bencana
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ik, ik]
+kebebasan komika di usik
+karena dia memberi kritik
+kamu itu tak hanya cantik
+kalau di ajak ngomong juga asyik
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, ng]
+ternak belum dikasih makan
+pemiliknya pergi ke lumajang
+apa mau disombongkan
+lahir saja masih telanjang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ya, at]
+indonesia beragam budaya
+banyak suku bangsa dan adat
+dari rabu ke rabu berikutnya
+sekali sahabat tetaplah sahabat
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, ka]
+berlayar kapal dari lautan
+menuju arah selat malaka
+lebar kepala daripada badan
+apakah itu cobalah terka
+<|end|>
+
+<|start|> [TEMA: nasihat] [RIMA: ng, ng]
+Pohon tinggi jatuh membayang,
+jalan setapak dari Ketapang.
+Siapa yang rajin sembahyang,
+sejuk di hati dadapun lapang.
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: as, an]
+budak bebalah di depan teras
+polisi metu belumpatan
+jauhilah minuman keras
+karena itu minuman setan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, at]
+Pergi ke ladang memanen singkong
+Singkong direbus dimakan hangat
+Jika hidup ingin selalu condong
+Condongkan hati pada yang tepat
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, an]
+pulang kerja hari lah petang
+ada kue dari ketan
+siapa suka yang berhutang
+mungkin pacarnya orang utan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ta, ia]
+setelah dari jakarta
+mereka kembali ke swedia
+aku bukanlah budak cinta
+aku hanyalah pribadi yang setia
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: mu, at]
+bahan yang baru di ramu
+katanya buat ngobatin jerawat
+aku baru lihat lihat fotomu
+biar aku kerjanya lebih semangat
+<|end|>
+
+<|start|> [TEMA: pendidikan] [RIMA: ah, ah]
+Citah perang melawan citah
+Seekor pelatuk mati di tengah
+Jika kau tak mahu sekolah
+Ayah bunda pasti gelisah
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ur, at]
+asam kandis asam gelugur
+asam nukleat asam sulfat
+menangis di pintu kubur
+teringat badan tidak shalat
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: am, am]
+pohon kelapa kawasan si ketam
+banyaknya di pulau batam
+kalau kulit sudah hitam
+dicuci setahun pun tetap hitam
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: us, us]
+di sumut sumber kapur barus
+bawa pulang dalam kardus
+ingin dikatakan kerjaannya bagus
+kita harus semangat bekerja terus
+<|end|>
+
+<|start|> [TEMA: agama] [RIMA: ak, ya]
+Kemumu di dalam semak
+Jatuh sehelai selarasnya
+Meski ilmu setinggi tegak
+Tak sembahyang apa gunanya
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ir, ah]
+dari mana rumput izkir
+dari jauh antah berantah
+banyak pikir kurang dzikir
+membuat hati semakin resah
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: us, en]
+lomba pukul air dibungkus
+dapat hadiah apartemen
+ada yang baru aja putus
+pacarnya di tikung temen
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: uk, ng]
+ikan berenang di dalam lubuk
+ikan belida dadanya panjang
+adat pinang pulang ke tampuk
+adat sirih pulang ke gagang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ur, ik]
+pak mamat tidur mendengkur
+sambil mendengarkan alunan musik
+selamat ultah pak direktur
+tetaplah menjadi pemimpin yang baik
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ti, ku]
+di bawah pohon yang mati
+mereka asyik membaca buku
+akan datang waktunya nanti
+kau akan menyesal tlah pergi dariku
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, ut]
+burung elang burung kutilang
+lebih indah burung but-but
+kalau barang ini hilang
+yang punya diam yang lain ribut
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ta, al]
+mesut ozil ke jakarta
+jumatan di masjid istiqlal
+ga usah ngajak-ngajak bercinta
+selama hubungan kita udah halal
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: un, ng]
+mandi bersih dengan sabun
+sabunnya dibeli di warung
+tahun boleh berganti tahun
+pertemanan kita terus berlangsung
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, in]
+mereka terheran-heran
+dia selalu ngemil lilin
+ada tak butuh pacaran
+aku pengennya langsung kau halalin
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: na, ya]
+kalau tuan muda teruna
+pakai seluar dengan gayanya
+bila tuan bijak laksana
+biji di luar apa buahnya
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, in]
+memasak kue dengan adonan
+jangan diawetkan dengan formalin
+selamat jalan sang mantan
+semoga bahagia dengan yang lain
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ah, ma]
+bekerja sehari tubuh lelah
+baca puisi indah irama
+bila engkau masih sekolah
+belajar adalah tugas utama
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ik, an]
+kita menari ke luar bilik
+sembarang tari kita tarikan
+kita bernyanyi bersama adik
+sembarang lagi kita menyanyikan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ut, ng]
+pergi ke desa siapa ikut
+bertemu dengan anak pirang
+cinta ini membuatku takut
+takut kamu disambar orang
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, ek]
+anak tupai makan kedondong
+isinya dimakan jadi keselek
+masih kecil telah ompong
+mirip bersama dengan nenek-nenek
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ma, ir]
+datang dari arab bawa oleh2 kurma
+datang dari cina bawa cangkir
+walau kamu bukan yang pertama
+tapi kamu yang terakhir
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, an]
+mengalir air ke selokan
+mengalir bahagia jika beriman
+jika sampah berserakan
+lingkungan kotor banyak kuman
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: mu, in]
+karena tak pernah ketemu
+dia rencana minta di temenin
+cintaku ini hanya untukmu
+kenapa cintamu untuk yang lain
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ur, ng]
+jagung ditanam tumbuh subur
+hasil panen dijual per karung
+kampung tenggelam tempuh kabur
+ambil jerigen bakal mengapung
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, an]
+matahari terbit di kalimantan
+membawa hangat indahnya nian
+inilah hari jadi tuan tian
+semoga membawa kebahagiaan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ta, na]
+pohon selasih tumbuh melata
+tumbuh perdu jauh disana
+sepasang kekasih mabuk bercinta
+siang merindu malam merana
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: mu, in]
+melihat nenek minum jamu
+di samping adik sedang bermain
+belahan jiwaku adalah kamu
+tidak pernah ada yang lain
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ar, an]
+joni memancing di kala fajar
+pulang menenteng banyak ikan
+bagi siapa yang rajin belajar
+pasti akan sukses kemudian
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: it, ti]
+awan putih di atas langit
+terbang melintas si burung merpati
+persaingan memanglah sengit
+sikap jujur tetap tepati
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: pi, an]
+pergi ke luar memakai topi
+untuk membeli sekilo ikan
+mimpi hanyalah menjadi mimpi
+jika tidak diwujudkan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: an, mu]
+ada yang nawarin ikan
+ngakunya masih saudara ayahmu
+sayang jangan menunda waktu makan
+ayo makan demi kesehatanmu
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: un, an]
+titik embun di atas daun
+bikin sejuk dan indah taman
+cinta kita dapat bertahun
+selama hayat masih di badan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ah, an]
+kayu manis di kedai rempah
+dibeli untuk bumbu masakan
+adik manis tidakkah marah
+kalau abang mau kenalan?
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: tu, mu]
+sungguh mahal ikan betutu
+sangat sedap bila diramu
+pendidikan akhlak nomor satu
+belajar adab kewajibanmu
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ar, an]
+ayam dimasak akan dibakar
+tapi akhirnya dibuat pepesan
+mudah saja sekadar mengajar
+tapi lebih susah menjadi teladan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ba, ah]
+jalan-jalan ke danau toba
+pergi ke bukit tuk berkemah
+bila senja telah tiba
+segeralah pulang ke rumah
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ar, an]
+jangan mkan di dalam kamar
+nanti lupa dan ketinggalan
+jangan biarkan hati terbakar
+nanti merana berkepanjangan
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ta, ar]
+ada wanita berkacamata
+sedang twitteran di kamar
+aku tak butuh gombalan cinta
+aku pengen langsung kau lamar
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ja, ga]
+duduk melamun tuan raja
+menatap lukisan ular naga
+hidup ini harus bekerja
+berupaya sekuat tenaga
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ah, ya]
+Ke kebun durian memetik buah
+Durian jatuh pecah kulitnya
+Jika ingin hidup berkah
+Jaga amanah yang dipercayanya
+<|end|>
+
+<|start|> [TEMA: umum] [RIMA: ng, ya]
+Burung nuri terbang beriring
+Sayap berkilau terkena cahaya
+Jika ingin hidup tidak sering miring
+Luruskan niat dalam berkarya
+<|end|>
+
