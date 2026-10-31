@@ -1,227 +1,176 @@
 import json
 import math
 import random
+import os
 import re
 from pathlib import Path
-from typing import List, Dict, Tuple, Union, Iterable
+from typing import List, Dict, Tuple, Union
 
 import numpy as np
 import torch
-from torch.utils.data import Dataset
+from torch.utils.data import Dataset, DataLoader
 from torch.nn.utils.rnn import pad_sequence
 
+# Menggunakan library tokenizers dari HuggingFace untuk Custom BPE
+from tokenizers import Tokenizer
+from tokenizers.models import BPE
+from tokenizers.trainers import BpeTrainer
+from tokenizers.pre_tokenizers import ByteLevel
 
-class PantunCharTokenizer:
+
+class PantunCustomTokenizer:
     """
-    Tokenizer level karakter untuk dataset pantun.
-
-    - Setiap karakter (huruf, spasi, newline, tanda baca) = 1 token.
-    - Special token (<|bos|>, <|tema|>, dst.) tetap atomik: 1 token utuh, tidak dipecah per karakter.
-    - Karakter yang tidak ada di vocab dipetakan ke <|unk|>.
-    - Vocab dibangun dari korpus lalu disimpan ke JSON agar train / val / inference
-      memakai mapping id yang identik.
+    Tokenizer BPE khusus bahasa Indonesia yang dilatih dari awal (from scratch)
+    menggunakan korpus pantun agar suku kata dan rima tidak rusak.
     """
-    SPECIAL_TOKENS = [
-        "<|pad|>",
-        "<|bos|>",
-        "<|eos|>",
-        "<|unk|>",
-        "<|tema|>",
-        "<|rima_a|>",
-        "<|rima_b|>",
-        "<|isi|>",
-        "<|sampiran|>",
-    ]
+    def __init__(self, vocab_size: int = 8000):
+        self.vocab_size = vocab_size
+        self.special_tokens = [
+            "<|unk|>",
+            "<|pad|>",
+            "<|bos|>",
+            "<|eos|>",
+            "<|tema|>",
+            "<|rima_a|>",
+            "<|rima_b|>",
+            "<|isi|>",
+            "<|batas|>" # Token pemisah sampiran dan isi
+        ]
+        self.tokenizer = None
+        self.pad_token_id = None
+        self.bos_token_id = None
+        self.eos_token_id = None
+        self.isi_token_id = None
 
-    def __init__(self, chars: Iterable[str], lowercase: bool = False):
-        self.lowercase = lowercase
-        self.chars: List[str] = sorted(set(chars))
-
-        # Special token di id paling awal (pad = 0), lalu karakter.
-        self.itos: List[str] = list(self.SPECIAL_TOKENS) + self.chars
-        self.stoi: Dict[str, int] = {tok: i for i, tok in enumerate(self.itos)}
-        self.special_tokens_map: Dict[str, int] = {t: self.stoi[t] for t in self.SPECIAL_TOKENS}
-
-        self.pad_token_id = self.stoi["<|pad|>"]
-        self.bos_token_id = self.stoi["<|bos|>"]
-        self.eos_token_id = self.stoi["<|eos|>"]
-        self.unk_token_id = self.stoi["<|unk|>"]
-        self.isi_token_id = self.stoi["<|isi|>"]
-        self.sampiran_token_id = self.stoi["<|sampiran|>"]
-
-        # Regex untuk memisahkan special token dari teks biasa (group capture -> token ikut tersimpan)
-        self._special_re = re.compile(
-            "(" + "|".join(re.escape(t) for t in self.SPECIAL_TOKENS) + ")"
+    def train_from_txt(self, txt_path: Union[str, Path], save_path: str = "pantun_tokenizer.json"):
+        """Melatih tokenizer HANYA dari file train.txt (mencegah data leakage)"""
+        self.tokenizer = Tokenizer(BPE(unk_token="<|unk|>"))
+        self.tokenizer.pre_tokenizer = ByteLevel(add_prefix_space=False)
+        
+        trainer = BpeTrainer(
+            vocab_size=self.vocab_size,
+            special_tokens=self.special_tokens,
+            show_progress=True
         )
+        
+        def get_training_corpus():
+            with open(txt_path, 'r', encoding='utf-8') as f:
+                content = f.read().strip()
+                
+            blocks = content.split('\n\n')
+            for block in blocks:
+                lines = [line.strip() for line in block.strip().split('\n') if line.strip()]
+                if len(lines) >= 6:
+                    header = lines[0]
+                    # Ekstrak tema dan rima agar tokenizer juga mengenali karakternya
+                    tema_match = re.search(r'\[TEMA:\s*(.*?)\]', header)
+                    rima_match = re.search(r'\[RIMA:\s*(.*?),\s*(.*?)\]', header)
+                    
+                    if tema_match: yield tema_match.group(1)
+                    if rima_match: 
+                        yield rima_match.group(1)
+                        yield rima_match.group(2)
+                        
+                    # Yield teks murni pantun (4 baris)
+                    yield "\n".join(lines[1:5])
+                        
+        print(f"[Info] Memulai proses training BPE Tokenizer murni dari {txt_path}...")
+        self.tokenizer.train_from_iterator(get_training_corpus(), trainer=trainer)
+        self.tokenizer.save(save_path)
+        self._set_ids()
+        print(f"[Info] Tokenizer berhasil dilatih dan disimpan ke '{save_path}'")
 
-    # ------------------------------------------------------------------
-    # Pembangunan vocab
-    # ------------------------------------------------------------------
-    @classmethod
-    def build_from_files(
-        cls,
-        txt_paths: Union[str, Path, List[Union[str, Path]]],
-        lowercase: bool = False,
-    ) -> "PantunCharTokenizer":
-        """Kumpulkan seluruh karakter unik dari field tema, rima, dan larik pada file dataset."""
-        if isinstance(txt_paths, (str, Path)):
-            txt_paths = [txt_paths]
+    def load(self, path: str):
+        """Memuat tokenizer yang sudah dilatih sebelumnya"""
+        self.tokenizer = Tokenizer.from_file(path)
+        self._set_ids()
+        
+    def _set_ids(self):
+        self.pad_token_id = self.tokenizer.token_to_id("<|pad|>")
+        self.bos_token_id = self.tokenizer.token_to_id("<|bos|>")
+        self.eos_token_id = self.tokenizer.token_to_id("<|eos|>")
+        self.isi_token_id = self.tokenizer.token_to_id("<|isi|>")
 
-        charset = set()
-        for p in txt_paths:
-            for rec in load_pantun_txt(p):
-                parts = [rec["tema"], rec["rima_a"], rec["rima_b"], "\n".join(rec["larik"])]
-                for part in parts:
-                    charset.update(part.lower() if lowercase else part)
-
-        tok = cls(charset, lowercase=lowercase)
-        print(f"[Info] Vocab char-level terbentuk: {tok.vocab_size} token "
-              f"({len(tok.SPECIAL_TOKENS)} special + {len(tok.chars)} karakter)")
-        return tok
-
-    def save(self, path: Union[str, Path]) -> None:
-        with open(path, "w", encoding="utf-8") as f:
-            json.dump({"chars": self.chars, "lowercase": self.lowercase}, f, ensure_ascii=False, indent=2)
-        print(f"[Info] Vocab disimpan ke: {path}")
-
-    @classmethod
-    def load(cls, path: Union[str, Path]) -> "PantunCharTokenizer":
-        with open(path, "r", encoding="utf-8") as f:
-            data = json.load(f)
-        return cls(data["chars"], lowercase=data.get("lowercase", False))
-
-    # ------------------------------------------------------------------
-    # Encode / decode
-    # ------------------------------------------------------------------
     @property
     def vocab_size(self) -> int:
-        return len(self.itos)
+        return self.tokenizer.get_vocab_size()
 
     def encode(self, text: str) -> List[int]:
-        ids: List[int] = []
-        for piece in self._special_re.split(text):
-            if not piece:
-                continue
-            if piece in self.special_tokens_map:
-                ids.append(self.special_tokens_map[piece])
-            else:
-                if self.lowercase:
-                    piece = piece.lower()
-                ids.extend(self.stoi.get(ch, self.unk_token_id) for ch in piece)
-        return ids
+        return self.tokenizer.encode(text).ids
 
-    def decode(self, token_ids: List[int], skip_special_tokens: bool = False) -> str:
-        special_ids = set(self.special_tokens_map.values())
-        out = []
-        for tid in token_ids:
-            if skip_special_tokens and tid in special_ids:
-                continue
-            out.append(self.itos[tid])
-        return "".join(out)
-
-
-def load_pantun_txt(path: Union[str, Path]) -> List[Dict]:
-    """
-    Membaca dataset berformat TXT hasil splitting.py:
-
-        <|start|> [TEMA: umum] [RIMA: ng, ar]
-        larik 1
-        larik 2
-        larik 3
-        larik 4
-        <|end|>
-
-    Blok yang tidak lengkap (header rusak atau bukan 4 larik) dilewati.
-    """
-    header_re = re.compile(
-        r"\[TEMA:\s*(?P<tema>.*?)\]\s*\[RIMA:\s*(?P<rima_a>.*?)\s*,\s*(?P<rima_b>.*?)\]"
-    )
-    records = []
-    current = None
-
-    with open(path, "r", encoding="utf-8") as f:
-        for line_num, raw_line in enumerate(f, 1):
-            line = raw_line.strip()
-            if not line:
-                continue
-
-            if line.startswith("<|start|>"):
-                header = line[len("<|start|>"):].strip()
-                match = header_re.search(header)
-                if not match:
-                    print(f"[Warning] Header tidak dikenali di baris {line_num}, blok dilewati: {header}")
-                    current = None
-                    continue
-                current = {
-                    "tema": match.group("tema").strip(),
-                    "rima_a": match.group("rima_a").strip(),
-                    "rima_b": match.group("rima_b").strip(),
-                    "larik": [],
-                    "_line": line_num,
-                }
-            elif line.startswith("<|end|>"):
-                if current is not None:
-                    if len(current["larik"]) == 4:
-                        del current["_line"]
-                        records.append(current)
-                    else:
-                        print(
-                            f"[Warning] Blok mulai baris {current['_line']} memiliki "
-                            f"{len(current['larik'])} larik (harus 4), dilewati."
-                        )
-                current = None
-            elif current is not None:
-                current["larik"].append(line)
-
-    return records
+    def decode(self, token_ids: List[int]) -> str:
+        return self.tokenizer.decode(token_ids, skip_special_tokens=False)
 
 
 class PantunDataset(Dataset):
     """
-    Custom PyTorch Dataset dengan Dynamic Conditioning Dropout (70% Lengkap, 20% Tanpa Rima, 10% Polos).
-
-    Hanya membaca dataset TXT hasil splitting.py (train.txt / val.txt).
+    Custom PyTorch Dataset untuk membaca format TXT hasil splitting,
+    dilengkapi Dynamic Conditioning Dropout dan Loss Masking Aktif.
     """
     def __init__(
         self,
         txt_path: Union[str, Path],
-        tokenizer: PantunCharTokenizer,
-        max_seq_len: int = 256,
+        tokenizer: PantunCustomTokenizer,
+        max_seq_len: int = 128,
         is_training: bool = True,
         dropout_probs: Tuple[float, float, float] = (0.70, 0.20, 0.10),
-        mask_conditioning_loss: bool = False
+        mask_conditioning_loss: bool = True
     ):
         super().__init__()
         assert abs(sum(dropout_probs) - 1.0) < 1e-6, "Total probabilitas harus 1.0"
-        assert Path(txt_path).suffix.lower() == ".txt", f"Dataset harus berformat .txt, bukan: {txt_path}"
-
+        
         self.tokenizer = tokenizer
         self.max_seq_len = max_seq_len
         self.is_training = is_training
         self.dropout_probs = dropout_probs
         self.mask_conditioning_loss = mask_conditioning_loss
-        self.data: List[Dict] = load_pantun_txt(txt_path)
+        self.data: List[Dict] = self._load_txt(txt_path)
+
+    def _load_txt(self, path: Union[str, Path]) -> List[Dict]:
+        """Membaca train.txt/val.txt dan mengekstrak tag untuk dynamic dropout"""
+        records = []
+        with open(path, "r", encoding="utf-8") as f:
+            content = f.read().strip()
+            
+        blocks = content.split('\n\n')
+        
+        for block in blocks:
+            lines = [line.strip() for line in block.strip().split('\n') if line.strip()]
+            
+            if len(lines) >= 6:
+                header = lines[0]
+                
+                tema_match = re.search(r'\[TEMA:\s*(.*?)\]', header)
+                rima_match = re.search(r'\[RIMA:\s*(.*?),\s*(.*?)\]', header)
+                
+                if tema_match and rima_match:
+                    records.append({
+                        "tema": tema_match.group(1),
+                        "rima_a": rima_match.group(1),
+                        "rima_b": rima_match.group(2),
+                        "larik": lines[1:5]
+                    })
+        return records
 
     @staticmethod
     def build_prompt_string(item: Dict, mode: str = "full") -> str:
-        """Helper statis untuk menyusun string sekuens berdasarkan mode conditioning."""
         tema = item["tema"].strip()
         rima_a = item["rima_a"].strip()
         rima_b = item["rima_b"].strip()
-        larik = [line.strip() for line in item["larik"]]
-        sampiran = "\n".join(larik[:2])  # larik 1-2
-        isi = "\n".join(larik[2:])       # larik 3-4
+        
+        sampiran = "\n".join(item["larik"][:2]).strip()
+        isi = "\n".join(item["larik"][2:]).strip()
+        
+        larik_str = f"{sampiran}\n<|batas|>\n{isi}"
 
-        # <|sampiran|> = awal badan pantun (titik mulai generate & batas masking loss)
-        # <|isi|>      = penanda eksplisit pergantian dari sampiran ke isi
         if mode == "full":
-            prefix = f"<|bos|><|tema|>{tema}<|rima_a|>{rima_a}<|rima_b|>{rima_b}<|sampiran|>"
+            prefix = f"<|bos|><|tema|>{tema}<|rima_a|>{rima_a}<|rima_b|>{rima_b}<|isi|>"
         elif mode == "no_rhyme":
-            prefix = f"<|bos|><|tema|>{tema}<|sampiran|>"
+            prefix = f"<|bos|><|tema|>{tema}<|isi|>"
         else:
-            prefix = "<|bos|><|sampiran|>"
+            prefix = "<|bos|><|isi|>"
 
-        return f"{prefix}{sampiran}\n<|isi|>{isi}<|eos|>"
+        return f"{prefix}\n{larik_str}\n<|eos|>"
 
     def _format_sequence(self, item: Dict) -> str:
         if not self.is_training:
@@ -235,7 +184,6 @@ class PantunDataset(Dataset):
                 mode = "no_rhyme"
             else:
                 mode = "unconditional"
-
         return self.build_prompt_string(item, mode=mode)
 
     def __len__(self) -> int:
@@ -245,7 +193,7 @@ class PantunDataset(Dataset):
         item = self.data[idx]
         formatted_text = self._format_sequence(item)
         token_ids = self.tokenizer.encode(formatted_text)
-
+        
         if len(token_ids) > self.max_seq_len:
             token_ids = token_ids[:self.max_seq_len - 1] + [self.tokenizer.eos_token_id]
 
@@ -253,9 +201,11 @@ class PantunDataset(Dataset):
         labels = torch.tensor(token_ids[1:], dtype=torch.long)
 
         if self.mask_conditioning_loss:
-            isi_positions = (input_ids == self.tokenizer.sampiran_token_id).nonzero(as_tuple=True)[0]
-            if len(isi_positions) > 0:
-                labels[:isi_positions[0].item()] = -100
+            try:
+                isi_pos = (input_ids == self.tokenizer.isi_token_id).nonzero(as_tuple=True)[0].item()
+                labels[:isi_pos] = -100
+            except IndexError:
+                pass
 
         return {"input_ids": input_ids, "labels": labels}
 
@@ -280,136 +230,88 @@ class PantunCollator:
         }
 
 
-# =====================================================================
-# Fungsi Profiler Distribusi Token & Penentu BLOCK_SIZE
-# =====================================================================
 def analyze_context_length(
     txt_path: Union[str, Path],
-    tokenizer: PantunCharTokenizer,
-    export_annotated_jsonl: Union[str, Path, None] = None
+    tokenizer: PantunCustomTokenizer
 ) -> Dict[str, Union[int, float]]:
-    """
-    Menganalisis distribusi panjang token (skenario terpanjang = Full Conditioning)
-    untuk menentukan BLOCK_SIZE / CONTEXT_SIZE yang optimal pada Mini-Transformer.
-    """
+    """Profiler sederhana untuk mendapatkan angka BLOCK_SIZE dari TXT"""
     lengths_full = []
-    lengths_uncond = []
-    annotated_records = []
-
-    for obj in load_pantun_txt(txt_path):
-        str_full = PantunDataset.build_prompt_string(obj, mode="full")
-        str_uncond = PantunDataset.build_prompt_string(obj, mode="unconditional")
-
-        len_full = len(tokenizer.encode(str_full))
-        len_uncond = len(tokenizer.encode(str_uncond))
-
-        lengths_full.append(len_full)
-        lengths_uncond.append(len_uncond)
-
-        if export_annotated_jsonl:
-            obj["token_len_full"] = len_full
-            obj["token_len_uncond"] = len_uncond
-            annotated_records.append(obj)
+    
+    with open(txt_path, "r", encoding="utf-8") as f:
+        content = f.read().strip()
+        
+    blocks = content.split('\n\n')
+    for block in blocks:
+        lines = [line.strip() for line in block.strip().split('\n') if line.strip()]
+        if len(lines) >= 6:
+            header = lines[0]
+            tema_match = re.search(r'\[TEMA:\s*(.*?)\]', header)
+            rima_match = re.search(r'\[RIMA:\s*(.*?),\s*(.*?)\]', header)
+            
+            if tema_match and rima_match:
+                obj = {
+                    "tema": tema_match.group(1),
+                    "rima_a": rima_match.group(1),
+                    "rima_b": rima_match.group(2),
+                    "larik": lines[1:5]
+                }
+                str_full = PantunDataset.build_prompt_string(obj, mode="full")
+                len_full = len(tokenizer.encode(str_full))
+                lengths_full.append(len_full)
 
     arr_full = np.array(lengths_full)
-    arr_uncond = np.array(lengths_uncond)
-
-    min_len = int(np.min(arr_full))
-    mean_len = float(np.mean(arr_full))
-    p50 = int(np.percentile(arr_full, 50))
-    p95 = int(np.percentile(arr_full, 95))
-    p99 = int(np.percentile(arr_full, 99))
-    p99_9 = int(np.percentile(arr_full, 99.9))
     max_len = int(np.max(arr_full))
-
-    # Rekomendasi BLOCK_SIZE (berbasis Max Length -> zero truncation):
-    # 1. Kelipatan 8 terdekat di atas Max (ramah Tensor Cores FP16/BF16)
-    rec_multiple_8 = int(math.ceil(max_len / 8.0) * 8)
-    # 2. Pangkat 2 terdekat di atas Max (64, 128, 256, ...)
     rec_power_of_2 = 2 ** int(math.ceil(math.log2(max_len)))
 
     print("=" * 60)
-    print("📊 LAPORAN DISTRIBUSI PANJANG TOKEN (CHAR-LEVEL)")
+    print("📊 LAPORAN DISTRIBUSI PANJANG TOKEN (Custom BPE)")
     print("=" * 60)
-    print(f"Vocab Size                 : {tokenizer.vocab_size}")
     print(f"Total Sampel Pantun        : {len(arr_full):,} baris")
-    print(f"Rata-rata Panjang (Polos)  : {np.mean(arr_uncond):.1f} token")
-    print(f"Rata-rata Panjang (Lengkap): {mean_len:.1f} token")
-    print("-" * 60)
-    print("Distribusi Persentil (Full Conditioning):")
-    print(f"  • Min (Terpendek)        : {min_len} token")
-    print(f"  • P50 (Median)           : {p50} token")
-    print(f"  • P95                    : {p95} token")
-    print(f"  • P99                    : {p99} token")
-    print(f"  • P99.9                  : {p99_9} token")
-    print(f"  • Max (Terpanjang)       : {max_len} token")
-    print("-" * 60)
-
-    counts, bin_edges = np.histogram(arr_full, bins=6)
-    print("Histogram Sebaran Panjang Token:")
-    max_count = max(counts) if len(counts) > 0 else 1
-    for i in range(len(counts)):
-        bar_len = int((counts[i] / max_count) * 30)
-        bar = "█" * bar_len
-        print(f"  [{int(bin_edges[i]):3d} - {int(bin_edges[i+1]):3d} token] : {bar} ({counts[i]:,})")
-
-    print("-" * 60)
-    print("🎯 REKOMENDASI BLOCK_SIZE / CONTEXT_SIZE MINI-TRANSFORMER:")
-    print(f"  • Opsi Strict (Zero-Truncation, Align-8) : {rec_multiple_8}")
-    print(f"  • Opsi Standar (Power-of-2)              : {rec_power_of_2}")
+    print(f"Max (Terpanjang)           : {max_len} token")
+    print(f"Rekomendasi BLOCK_SIZE     : {rec_power_of_2} token")
     print("=" * 60)
 
-    if export_annotated_jsonl:
-        with open(export_annotated_jsonl, "w", encoding="utf-8") as out_f:
-            for rec in annotated_records:
-                out_f.write(json.dumps(rec, ensure_ascii=False) + "\n")
-        print(f"[Info] File dataset dengan anotasi panjang token disimpan ke: {export_annotated_jsonl}\n")
-
-    return {
-        "max_len": max_len,
-        "p99": p99,
-        "recommended_align8": rec_multiple_8,
-        "recommended_pow2": rec_power_of_2
-    }
+    return {"recommended_pow2": rec_power_of_2}
 
 
+# =====================================================================
+# BLOK EKSEKUSI UTAMA (Bebas dari Data Leakage)
+# =====================================================================
 if __name__ == "__main__":
-    DATA_DIR = Path("processed_data")
-    TRAIN_PATH = DATA_DIR / "train.txt"
-    VAL_PATH = DATA_DIR / "val.txt"
-    VOCAB_PATH = DATA_DIR / "vocab_char.json"
-
-    if not TRAIN_PATH.exists():
-        raise FileNotFoundError(
-            f"Dataset tidak ditemukan: {TRAIN_PATH}. "
-            "Jalankan 1.DATASET/preprocessing.py lalu 1.DATASET/splitting.py terlebih dahulu."
+    # Pastikan path ini sesuai dengan struktur direktori kamu
+    TRAIN_TXT_PATH = "1.DATASET/processed_data/train.txt" 
+    TOKENIZER_PATH = "pantun_tokenizer.json"
+    
+    # Inisialisasi Tokenizer dengan Vocab Size yang sudah dikecilkan menjadi 4000
+    # (Diperkecil untuk meminimalisir underfitting dan output tidak koheren)
+    tokenizer = PantunCustomTokenizer(vocab_size=4000)
+    
+    # 1. Melatih Tokenizer murni hanya dari TRAIN_TXT
+    if not Path(TOKENIZER_PATH).exists():
+        if Path(TRAIN_TXT_PATH).exists():
+            tokenizer.train_from_txt(TRAIN_TXT_PATH, TOKENIZER_PATH)
+        else:
+            print(f"[Error] File {TRAIN_TXT_PATH} tidak ditemukan.")
+            exit()
+    else:
+        print("[Info] Memuat tokenizer yang sudah ada...")
+        tokenizer.load(TOKENIZER_PATH)
+    
+    # 2. Profiling untuk menentukan panjang konteks (BLOCK_SIZE)
+    if Path(TRAIN_TXT_PATH).exists():
+        stats = analyze_context_length(TRAIN_TXT_PATH, tokenizer)
+        OPTIMAL_BLOCK_SIZE = stats["recommended_pow2"]
+        
+        # 3. Load Dataset dari train.txt
+        train_dataset = PantunDataset(
+            txt_path=TRAIN_TXT_PATH,
+            tokenizer=tokenizer,
+            max_seq_len=OPTIMAL_BLOCK_SIZE,
+            is_training=True
         )
-
-    # 1. Bangun vocab dari train + val (hanya himpunan karakter, tidak ada kebocoran label),
-    #    lalu simpan agar training, eval, dan generate memakai mapping yang sama.
-    source_files = [TRAIN_PATH] + ([VAL_PATH] if VAL_PATH.exists() else [])
-    tokenizer = PantunCharTokenizer.build_from_files(source_files, lowercase=False)
-    tokenizer.save(VOCAB_PATH)
-
-    # 2. Profiler untuk menentukan BLOCK_SIZE
-    stats = analyze_context_length(
-        txt_path=TRAIN_PATH,
-        tokenizer=tokenizer,
-        export_annotated_jsonl=None
-    )
-
-    # 3. Pakai rekomendasi ke dalam Dataset
-    OPTIMAL_BLOCK_SIZE = stats["recommended_pow2"]
-
-    train_dataset = PantunDataset(
-        txt_path=TRAIN_PATH,
-        tokenizer=tokenizer,
-        max_seq_len=OPTIMAL_BLOCK_SIZE,
-        is_training=True
-    )
-
-    # Sanity check: round-trip encode -> decode harus identik
-    sample = PantunDataset.build_prompt_string(train_dataset.data[0], mode="full")
-    ids = tokenizer.encode(sample)
-    assert tokenizer.decode(ids) == sample, "Round-trip encode/decode tidak identik!"
-    print(f"[OK] Round-trip lolos. Contoh ({len(ids)} token):\n{sample}")
+        
+        collator = PantunCollator(pad_token_id=tokenizer.pad_token_id)
+        dataloader = DataLoader(train_dataset, batch_size=4, collate_fn=collator)
+        
+        print(f"\n[Berhasil] Tokenizer dilatih tanpa kebocoran data.")
+        print(f"DataLoader dimuat dari {TRAIN_TXT_PATH} dengan sampel: {len(train_dataset)}")

@@ -1,6 +1,7 @@
 import pandas as pd
 import string
 import json
+import os # Tambahan modul os
 
 def ingest_and_standardize(file_txt, file_csv_2, file_csv_3):
     all_pantun = []
@@ -15,7 +16,7 @@ def ingest_and_standardize(file_txt, file_csv_2, file_csv_3):
                 # Hilangkan tag BOS dan EOS
                 clean_line = line.replace('<BOS>', '').replace('<EOS>', '').strip()
                 # Pisahkan berdasarkan <CLS> dan bersihkan spasi
-                larik = [l.strip() for l in clean_line.split('<CLS>') if l.strip()]
+                larik = [l.strip().lower() for l in clean_line.split('<CLS>') if l.strip()]
                 
                 # Pastikan jumlah baris tepat 4
                 if len(larik) == 4:
@@ -35,7 +36,7 @@ def ingest_and_standardize(file_txt, file_csv_2, file_csv_3):
         for text in df2['text_pantun'].dropna():
             # Pisahkan dengan \n dan abaikan baris yang kosong (menghindari error krn \n di akhir)
             text = text.replace('\\n', '\n') 
-            larik = [l.strip() for l in text.split('\n') if l.strip()]
+            larik = [l.strip().lower() for l in text.split('\n') if l.strip()]
             
             if len(larik) == 4:
                 all_pantun.append({
@@ -57,7 +58,7 @@ def ingest_and_standardize(file_txt, file_csv_2, file_csv_3):
             
             # Pisahkan dengan \n dan abaikan baris yang kosong (menghindari error krn \n di akhir)
             text = text.replace('\\n', '\n')
-            larik = [l.strip() for l in text.split('\n') if l.strip()]
+            larik = [l.strip().lower() for l in text.split('\n') if l.strip()]
             
             if len(larik) == 4:
                 # Bersihkan tema (contoh: "Pantun Bijak" -> "bijak")
@@ -72,7 +73,7 @@ def ingest_and_standardize(file_txt, file_csv_2, file_csv_3):
     return all_pantun
 
 def get_suffix(line):
-    # Buang tanda baca (koma, titik, dll) di akhir kalimat
+    # Buang tanda baca (koma, titik, dll) di akhir kalimat, LALU strip() lagi untuk membuang spasi sisa
     clean_line = line.translate(str.maketrans('', '', string.punctuation)).strip()
     # Ambil 2 huruf terakhir
     return clean_line[-2:].lower() if len(clean_line) >= 2 else clean_line.lower()
@@ -89,8 +90,8 @@ def filter_rhyme_and_save(all_pantun, output_path):
         suf3 = get_suffix(larik[2])
         suf4 = get_suffix(larik[3])
         
-        # Cek apakah pola rima akhir menyilang a-b-a-b
-        if suf1 == suf3 and suf2 == suf4:
+        # Cek apakah pola rima akhir menyilang a-b-a-b DAN rima A beda dengan rima B (memblokir a-a-a-a)
+        if suf1 == suf3 and suf2 == suf4 and suf1 and suf2 and suf1[-1] != suf2[-1]:
             # Perekaman metadata Tahap 2
             pantun_bersih = {
                 "tema": pantun["tema"],
@@ -121,7 +122,7 @@ if __name__ == "__main__":
     print(f"Total pantun mentah yang diekstrak: {len(master_list)} bait")
     
     # 2. Filter a-b-a-b dan Simpan ke JSONL (Milestone 2 & 3)
-    output_jsonl = '1.DATASET/processed_data/master_data.jsonl' # Pastikan folder processed_data ada
+    output_jsonl = '1.DATASET/processed_data/master_data.jsonl'
     cleaned_list = filter_rhyme_and_save(master_list, output_jsonl)
     
     print(f"Total pantun valid (a-b-a-b) yang tersimpan: {len(cleaned_list)} bait")
