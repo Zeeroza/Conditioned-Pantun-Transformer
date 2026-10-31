@@ -62,16 +62,62 @@ def estimate_loss(model, dataloaders, eval_iters, device, device_type):
     model.train()
     return out
 
+EVAL_PROMPTS = {
+    "full":     "<|bos|><|tema|>umum<|rima_a|>ng<|rima_b|>ar<|isi|>",
+    "no_rhyme": "<|bos|><|tema|>umum<|isi|>",
+    "polos":    "<|bos|><|isi|>",
+}
+ 
+ 
 @torch.no_grad()
-def generate_sample(model, tokenizer, device, prompt_text="<|bos|><|tema|>cinta"):
-    """Sanity check qualitative generation during evaluation."""
-    model.eval()
-    input_ids = torch.tensor([tokenizer.encode(prompt_text)], dtype=torch.long).to(device)
+def generate_sample(
+    model,
+    tokenizer,
+    device,
+    prompt_text=EVAL_PROMPTS["full"],
+    max_new_tokens=200,
+    top_k=15,
+    block_size=256,
+):
+    """Sanity check kualitatif. Prompt HARUS diakhiri <|isi|>, sama seperti format training."""
     raw_model = model.module if hasattr(model, "module") else model
-    out_ids = raw_model.generate(input_ids, max_new_tokens=80, top_k=50)
-    generated_text = tokenizer.decode(out_ids[0].tolist(), skip_special_tokens=False)
-    model.train()
-    return generated_text
+    was_training = model.training
+    model.eval()
+    try:
+        prompt_ids = tokenizer.encode(prompt_text)
+        input_ids = torch.tensor([prompt_ids], dtype=torch.long, device=device)
+ 
+        # Jangan melewati context window model.
+        budget = min(max_new_tokens, block_size - len(prompt_ids))
+        out_ids = raw_model.generate(input_ids, max_new_tokens=budget, top_k=top_k)
+ 
+        # Asumsi: generate() mengembalikan prompt + hasil (gaya nanoGPT).
+        new_ids = out_ids[0].tolist()[len(prompt_ids):]
+ 
+        # Potong di <|eos|> pertama; sisanya hanya sampah yang tidak pernah dilihat saat training.
+        if tokenizer.eos_token_id in new_ids:
+            new_ids = new_ids[: new_ids.index(tokenizer.eos_token_id)]
+    finally:
+        if was_training:
+            model.train()
+ 
+    return prompt_text + tokenizer.decode(new_ids, skip_special_tokens=False)
+ 
+ 
+def check_rhyme(generated: str, rima_a: str, rima_b: str):
+    """
+    Cek kasar pola a-b-a-b: larik 1 & 3 berakhiran rima_a, larik 2 & 4 berakhiran rima_b.
+    Asumsi: 'rima' di datasetmu = akhiran huruf larik. Sesuaikan kalau definisinya beda.
+    Mengembalikan jumlah larik yang cocok (0-4), atau None kalau larik < 4.
+    """
+    body = generated.split("<|isi|>", 1)[-1].strip().split("\n")
+    if len(body) < 4:
+        return None
+    ends = [ln.strip().rstrip(" ,.;:!?") for ln in body[:4]]
+    return sum([
+        ends[0].endswith(rima_a), ends[2].endswith(rima_a),
+        ends[1].endswith(rima_b), ends[3].endswith(rima_b),
+    ])
 
 # =============================================================================
 # Main Training Loop
