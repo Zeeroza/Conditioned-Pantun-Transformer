@@ -68,9 +68,9 @@ def estimate_loss(model, dataloaders, eval_iters, device, device_type):
     return out
 
 EVAL_PROMPTS = {
-    "full":     "<|bos|><|tema|>umum<|rima_a|>ng<|rima_b|>ar<|isi|>",
-    "no_rhyme": "<|bos|><|tema|>umum<|isi|>",
-    "polos":    "<|bos|><|isi|>",
+    "full":     "<|bos|><|tema|>umum<|rima_a|>ng<|rima_b|>ar<|sampiran|>",
+    "no_rhyme": "<|bos|><|tema|>umum<|sampiran|>",
+    "polos":    "<|bos|><|sampiran|>",
 }
 
 
@@ -84,7 +84,7 @@ def generate_sample(
     top_k=15,
     block_size=256,
 ):
-    """Sanity check kualitatif. Prompt HARUS diakhiri <|isi|>, sama seperti format training."""
+    """Sanity check kualitatif. Prompt HARUS diakhiri <|sampiran|>, sama seperti format training."""
     raw_model = model.module if hasattr(model, "module") else model
     was_training = model.training
     model.eval()
@@ -115,7 +115,7 @@ def check_rhyme(generated: str, rima_a: str, rima_b: str):
     Asumsi: 'rima' di datasetmu = akhiran huruf larik. Sesuaikan kalau definisinya beda.
     Mengembalikan jumlah larik yang cocok (0-4), atau None kalau larik < 4.
     """
-    body = generated.split("<|isi|>", 1)[-1].strip().split("\n")
+    body = generated.split("<|sampiran|>", 1)[-1].replace("<|isi|>", "").strip().split("\n")
     if len(body) < 4:
         return None
     ends = [ln.strip().rstrip(" ,.;:!?") for ln in body[:4]]

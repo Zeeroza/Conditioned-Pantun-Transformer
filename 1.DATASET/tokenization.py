@@ -30,6 +30,7 @@ class PantunCharTokenizer:
         "<|rima_a|>",
         "<|rima_b|>",
         "<|isi|>",
+        "<|sampiran|>",
     ]
 
     def __init__(self, chars: Iterable[str], lowercase: bool = False):
@@ -46,6 +47,7 @@ class PantunCharTokenizer:
         self.eos_token_id = self.stoi["<|eos|>"]
         self.unk_token_id = self.stoi["<|unk|>"]
         self.isi_token_id = self.stoi["<|isi|>"]
+        self.sampiran_token_id = self.stoi["<|sampiran|>"]
 
         # Regex untuk memisahkan special token dari teks biasa (group capture -> token ikut tersimpan)
         self._special_re = re.compile(
@@ -206,16 +208,20 @@ class PantunDataset(Dataset):
         tema = item["tema"].strip()
         rima_a = item["rima_a"].strip()
         rima_b = item["rima_b"].strip()
-        larik_str = "\n".join(line.strip() for line in item["larik"])
+        larik = [line.strip() for line in item["larik"]]
+        sampiran = "\n".join(larik[:2])  # larik 1-2
+        isi = "\n".join(larik[2:])       # larik 3-4
 
+        # <|sampiran|> = awal badan pantun (titik mulai generate & batas masking loss)
+        # <|isi|>      = penanda eksplisit pergantian dari sampiran ke isi
         if mode == "full":
-            prefix = f"<|bos|><|tema|>{tema}<|rima_a|>{rima_a}<|rima_b|>{rima_b}<|isi|>"
+            prefix = f"<|bos|><|tema|>{tema}<|rima_a|>{rima_a}<|rima_b|>{rima_b}<|sampiran|>"
         elif mode == "no_rhyme":
-            prefix = f"<|bos|><|tema|>{tema}<|isi|>"
+            prefix = f"<|bos|><|tema|>{tema}<|sampiran|>"
         else:
-            prefix = "<|bos|><|isi|>"
+            prefix = "<|bos|><|sampiran|>"
 
-        return f"{prefix}{larik_str}<|eos|>"
+        return f"{prefix}{sampiran}\n<|isi|>{isi}<|eos|>"
 
     def _format_sequence(self, item: Dict) -> str:
         if not self.is_training:
@@ -247,7 +253,7 @@ class PantunDataset(Dataset):
         labels = torch.tensor(token_ids[1:], dtype=torch.long)
 
         if self.mask_conditioning_loss:
-            isi_positions = (input_ids == self.tokenizer.isi_token_id).nonzero(as_tuple=True)[0]
+            isi_positions = (input_ids == self.tokenizer.sampiran_token_id).nonzero(as_tuple=True)[0]
             if len(isi_positions) > 0:
                 labels[:isi_positions[0].item()] = -100
 
