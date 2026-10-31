@@ -1,6 +1,7 @@
 import json
 import math
 import random
+import re
 from pathlib import Path
 from typing import List, Dict, Tuple, Union
 
@@ -62,13 +63,71 @@ class PantunBPETokenizer:
         return self.tokenizer.decode(token_ids)
 
 
+def load_pantun_txt(path: Union[str, Path]) -> List[Dict]:
+    """
+    Membaca dataset berformat TXT hasil splitting.py:
+
+        <|start|> [TEMA: umum] [RIMA: ng, ar]
+        larik 1
+        larik 2
+        larik 3
+        larik 4
+        <|end|>
+
+    Blok yang tidak lengkap (header rusak atau bukan 4 larik) dilewati.
+    """
+    header_re = re.compile(
+        r"\[TEMA:\s*(?P<tema>.*?)\]\s*\[RIMA:\s*(?P<rima_a>.*?)\s*,\s*(?P<rima_b>.*?)\]"
+    )
+    records = []
+    current = None
+
+    with open(path, "r", encoding="utf-8") as f:
+        for line_num, raw_line in enumerate(f, 1):
+            line = raw_line.strip()
+            if not line:
+                continue
+
+            if line.startswith("<|start|>"):
+                header = line[len("<|start|>"):].strip()
+                match = header_re.search(header)
+                if not match:
+                    print(f"[Warning] Header tidak dikenali di baris {line_num}, blok dilewati: {header}")
+                    current = None
+                    continue
+                current = {
+                    "tema": match.group("tema").strip(),
+                    "rima_a": match.group("rima_a").strip(),
+                    "rima_b": match.group("rima_b").strip(),
+                    "larik": [],
+                    "_line": line_num,
+                }
+            elif line.startswith("<|end|>"):
+                if current is not None:
+                    if len(current["larik"]) == 4:
+                        del current["_line"]
+                        records.append(current)
+                    else:
+                        print(
+                            f"[Warning] Blok mulai baris {current['_line']} memiliki "
+                            f"{len(current['larik'])} larik (harus 4), dilewati."
+                        )
+                current = None
+            elif current is not None:
+                current["larik"].append(line)
+
+    return records
+
+
 class PantunDataset(Dataset):
     """
     Custom PyTorch Dataset dengan Dynamic Conditioning Dropout (70% Lengkap, 20% Tanpa Rima, 10% Polos).
+
+    Hanya membaca dataset TXT hasil splitting.py (train.txt / val.txt).
     """
     def __init__(
         self,
-        jsonl_path: Union[str, Path],
+        txt_path: Union[str, Path],
         tokenizer: PantunBPETokenizer,
         max_seq_len: int = 128,
         is_training: bool = True,
@@ -77,28 +136,14 @@ class PantunDataset(Dataset):
     ):
         super().__init__()
         assert abs(sum(dropout_probs) - 1.0) < 1e-6, "Total probabilitas harus 1.0"
-        
+        assert Path(txt_path).suffix.lower() == ".txt", f"Dataset harus berformat .txt, bukan: {txt_path}"
+
         self.tokenizer = tokenizer
         self.max_seq_len = max_seq_len
         self.is_training = is_training
         self.dropout_probs = dropout_probs
         self.mask_conditioning_loss = mask_conditioning_loss
-        self.data: List[Dict] = self._load_jsonl(jsonl_path)
-
-    def _load_jsonl(self, path: Union[str, Path]) -> List[Dict]:
-        records = []
-        with open(path, "r", encoding="utf-8") as f:
-            for line_num, line in enumerate(f, 1):
-                line = line.strip()
-                if not line:
-                    continue
-                try:
-                    obj = json.loads(line)
-                    if all(k in obj for k in ("tema", "rima_a", "rima_b", "larik")):
-                        records.append(obj)
-                except json.JSONDecodeError as e:
-                    print(f"[Warning] Melewati baris {line_num} yang korup: {e}")
-        return records
+        self.data: List[Dict] = load_pantun_txt(txt_path)
 
     @staticmethod
     def build_prompt_string(item: Dict, mode: str = "full") -> str:
@@ -180,7 +225,7 @@ class PantunCollator:
 # Fungsi Profiler Distribusi Token & Penentu BLOCK_SIZE
 # =====================================================================
 def analyze_context_length(
-    jsonl_path: Union[str, Path],
+    txt_path: Union[str, Path],
     tokenizer: PantunBPETokenizer,
     export_annotated_jsonl: Union[str, Path, None] = None
 ) -> Dict[str, Union[int, float]]:
@@ -189,7 +234,7 @@ def analyze_context_length(
     untuk menentukan BLOCK_SIZE / CONTEXT_SIZE yang optimal pada Mini-Transformer.
     
     Args:
-        jsonl_path: Path ke file dataset .jsonl utama.
+        txt_path: Path ke file dataset .txt hasil splitting.py.
         tokenizer: Instance PantunBPETokenizer.
         export_annotated_jsonl: (Opsional) Jika diisi path file baru, akan menyimpan dataset
                                 yang sudah ditambahkan metadata 'token_length' untuk inspeksi.
@@ -198,26 +243,21 @@ def analyze_context_length(
     lengths_uncond = []
     annotated_records = []
 
-    with open(jsonl_path, "r", encoding="utf-8") as f:
-        for line in f:
-            if not line.strip():
-                continue
-            obj = json.loads(line)
-            
-            # Hitung panjang kondisi terpanjang (Full Conditioning) & terpendek (Polos)
-            str_full = PantunDataset.build_prompt_string(obj, mode="full")
-            str_uncond = PantunDataset.build_prompt_string(obj, mode="unconditional")
-            
-            len_full = len(tokenizer.encode(str_full))
-            len_uncond = len(tokenizer.encode(str_uncond))
-            
-            lengths_full.append(len_full)
-            lengths_uncond.append(len_uncond)
+    for obj in load_pantun_txt(txt_path):
+        # Hitung panjang kondisi terpanjang (Full Conditioning) & terpendek (Polos)
+        str_full = PantunDataset.build_prompt_string(obj, mode="full")
+        str_uncond = PantunDataset.build_prompt_string(obj, mode="unconditional")
+        
+        len_full = len(tokenizer.encode(str_full))
+        len_uncond = len(tokenizer.encode(str_uncond))
+        
+        lengths_full.append(len_full)
+        lengths_uncond.append(len_uncond)
 
-            if export_annotated_jsonl:
-                obj["token_len_full"] = len_full
-                obj["token_len_uncond"] = len_uncond
-                annotated_records.append(obj)
+        if export_annotated_jsonl:
+            obj["token_len_full"] = len_full
+            obj["token_len_uncond"] = len_uncond
+            annotated_records.append(obj)
 
     arr_full = np.array(lengths_full)
     arr_uncond = np.array(lengths_uncond)
@@ -283,30 +323,19 @@ def analyze_context_length(
 
 
 if __name__ == "__main__":
-    DATASET_PATH = "processed_data/master_data.jsonl"
-    
-    # Buat file dummy jika dataset.jsonl belum ada di direktori saat ini
+    DATASET_PATH = "1.DATASET/processed_data/train.txt"
+
     if not Path(DATASET_PATH).exists():
-        sample_pantun = {
-            "tema": "umum",
-            "rima_a": "ri",
-            "rima_b": "in",
-            "larik": [
-                "karena terlalu lama berdiri",
-                "para tamu pada ngeliatin",
-                "selamat hari raya idul fitri",
-                "mohon maaf lahir dan batin"
-            ]
-        }
-        with open(DATASET_PATH, "w", encoding="utf-8") as f:
-            for _ in range(100):
-                f.write(json.dumps(sample_pantun) + "\n")
+        raise FileNotFoundError(
+            f"Dataset tidak ditemukan: {DATASET_PATH}. "
+            "Jalankan 1.DATASET/preprocessing.py lalu 1.DATASET/splitting.py terlebih dahulu."
+        )
 
     tokenizer = PantunBPETokenizer(base_encoding="gpt2")
     
     # 1. Jalankan profiler untuk mendapatkan angka BLOCK_SIZE
     stats = analyze_context_length(
-        jsonl_path=DATASET_PATH,
+        txt_path=DATASET_PATH,
         tokenizer=tokenizer,
         export_annotated_jsonl=None  # Isi "dataset_annotated.jsonl" jika ingin menyimpan panjang token ke file baru
     )
@@ -315,7 +344,7 @@ if __name__ == "__main__":
     OPTIMAL_BLOCK_SIZE = stats["recommended_pow2"]
     
     train_dataset = PantunDataset(
-        jsonl_path=DATASET_PATH,
+        txt_path=DATASET_PATH,
         tokenizer=tokenizer,
         max_seq_len=OPTIMAL_BLOCK_SIZE,
         is_training=True
