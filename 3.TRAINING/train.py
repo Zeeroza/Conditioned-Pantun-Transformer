@@ -68,7 +68,7 @@ def generate_sample(model, tokenizer, device, prompt_text="<|bos|><|tema|>cinta"
     model.eval()
     input_ids = torch.tensor([tokenizer.encode(prompt_text)], dtype=torch.long).to(device)
     raw_model = model.module if hasattr(model, "module") else model
-    out_ids = raw_model.generate(input_ids, max_new_tokens=32, top_k=50)
+    out_ids = raw_model.generate(input_ids, max_new_tokens=80, top_k=50)
     generated_text = tokenizer.decode(out_ids[0].tolist(), skip_special_tokens=False)
     model.train()
     return generated_text
@@ -117,15 +117,26 @@ def train():
     cfg = ModelConfig.from_config_py() if os.path.exists(os.path.join(BASE_DIR, '2.MODEL', 'config.py')) else ModelConfig()
     cfg.vocab_size = tokenizer.vocab_size
 
-    train_path = os.path.join(BASE_DIR, '1.DATASET', 'processed_data', 'train.jsonl')
-    val_path = os.path.join(BASE_DIR, '1.DATASET', 'processed_data', 'val.jsonl')
-    
-    if not os.path.exists(train_path):
-        train_path = os.path.join(BASE_DIR, '1.DATASET', 'processed_data', 'master_data.jsonl')
-        val_path = train_path
+    train_path = os.path.join(BASE_DIR, '1.DATASET', 'processed_data', 'train.txt')
+    val_path = os.path.join(BASE_DIR, '1.DATASET', 'processed_data', 'val.txt')
+
+    for split_name, split_path in (("train", train_path), ("val", val_path)):
+        if not os.path.exists(split_path):
+            raise FileNotFoundError(
+                f"File data {split_name} tidak ditemukan: {split_path}\n"
+                "Jalankan 1.DATASET/preprocessing.py lalu 1.DATASET/splitting.py terlebih dahulu."
+            )
 
     train_dataset = PantunDataset(train_path, tokenizer, max_seq_len=cfg.block_size, is_training=True)
     val_dataset = PantunDataset(val_path, tokenizer, max_seq_len=cfg.block_size, is_training=False)
+
+    if len(train_dataset) == 0:
+        raise RuntimeError(f"Dataset train kosong atau formatnya tidak valid: {train_path}")
+    if len(val_dataset) == 0:
+        raise RuntimeError(f"Dataset val kosong atau formatnya tidak valid: {val_path}")
+
+    print(f"[Init] Train samples: {len(train_dataset):,} ({train_path})")
+    print(f"[Init] Val samples  : {len(val_dataset):,} ({val_path})")
     collator = PantunCollator(pad_token_id=tokenizer.pad_token_id, ignore_index=-100)
 
     train_loader = DataLoader(train_dataset, batch_size=args.batch_size, shuffle=True, collate_fn=collator, drop_last=True)
