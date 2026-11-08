@@ -1,0 +1,33 @@
+{
+  "REAL": {
+    "label_rhyme": 1.0,
+    "pair_rime": 0.98,
+    "abab_rime": 0.96,
+    "struct_4line": 1.0,
+    "syl_8_12": 0.945,
+    "oov": 0.026037195994277538,
+    "seen_in_train": 0.32125
+  },
+  "best.pt": {
+    "test_loss": 1.9404969637337395,
+    "test_ppl": 6.962210076955807,
+    "greedy": {
+      "label_rhyme": 0.985,
+      "pair_rime": 0.9525,
+      "abab_rime": 0.91,
+      "struct_4line": 1.0,
+      "syl_8_12": 0.93625,
+      "oov": 0.00658271322266743,
+      "seen_in_train": 0.525
+    },
+    "sampling": {
+      "label_rhyme": 0.9675,
+      "pair_rime": 0.8825,
+      "abab_rime": 0.8,
+      "struct_4line": 1.0,
+      "syl_8_12": 0.91375,
+      "oov": 0.037545530961053515,
+      "seen_in_train": 0.28375
+    }
+  }
+}
